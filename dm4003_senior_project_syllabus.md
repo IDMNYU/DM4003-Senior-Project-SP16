@@ -9,10 +9,9 @@
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718  
 
 #DRAFT (ALL CONTENT WILL CHANGE.)
-###Gitbook Repository: 
-* https://www.gitbook.com/book/deangela/senior-project-in-digital-media-spring-2016/content
-####Course Management Site
-* http://bxmc.slack.com 
+#####Gitbook Repository: https://www.gitbook.com/book/deangela/senior-project-in-digital-media-spring-2016/content/
+
+#####Course Management Site: http://bxmc.slack.com 
 
 ---
 
