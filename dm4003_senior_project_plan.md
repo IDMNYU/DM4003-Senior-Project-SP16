@@ -115,12 +115,10 @@
 <tr>  
 <tr>
     <td><strong>Risks &amp; Challenges</strong></td>   
-    <td>Read <i>Do The Work</i> and answer the following questions.
-    <ul>
-    <li>What’s missing from your project? (p. 48)</li>
-    </ul>
-
-    What are your risks of failure? (lack of tech, time, knowledge, money, etc.) and how will you overcome them? What are the holes or gaps in your project?</td>
+    <td>
+<ul>
+<li>What are your risks of failure? (lack of tech, time, knowledge, money, etc.) and how will you overcome them?</li>
+<li>What are the holes or gaps in your project?</li></td>
 </tr>
 </table>
 
