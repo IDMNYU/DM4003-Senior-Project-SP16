@@ -165,7 +165,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * 20% Senior Project – Gold Version 
 * 15% [Deliverables for Senior Project Catalog / Supporting Files](dm4003_senior_project_end_of_semester_deliverables.md)
-* 10% Weekly Progress: project milestones, calendar & [process website](dm4003_senior_project_website.md)
+* 10% Weekly Progress: Project Milestones (aka what have you done this week?) on  [process website](dm4003_senior_project_website.md) and calendar 
 * 10% Proje Critique Presentations
 * 10% [End of Semester Public Presentation](dm4003_senior_project_end_of_semester_deliverables.md)
 * 10% [Portfolio Website](dm4003_senior_project_end_of_semester_deliverables.md), Resume, Cover Letter, and LinkedIn Profile
