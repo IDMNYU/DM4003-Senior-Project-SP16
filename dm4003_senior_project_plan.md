@@ -81,8 +81,8 @@
     You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)</td> 
 </tr>
 <tr>
-    <td><strong>Research / Reference / Influences</strong></td>        
-    <td>Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of  tech research, material research, visual research, collection, interviews, observation, etc.
+    <td><strong>Research</strong></td>        
+    <td>Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, tech research, material research, visual research, collection, interviews, observation, etc.
         <ul>
         <li>You should decide what kinds of research / reference / influences is most appropriate for your project.</li>
         </ul>
