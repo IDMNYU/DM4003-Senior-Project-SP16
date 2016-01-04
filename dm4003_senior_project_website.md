@@ -31,10 +31,8 @@ You should have a **dedicated**, senior project website to document your **daily
 
 
 * *An About Page*
-  * The “elevator pitch” / Thesis Statement
-  * A link to your pre-thesis site
-  * A link to a pdf of your pre-thesis defense presentation
-  * Documentation (i.e. hi-res images and/or video) of your prototype from pre-thesis
+  * The “elevator pitch” 
+  * Eventually hi-res image(s)
 
 
 * *Sourced & Annotated Research / Reference / Inspiration* 
