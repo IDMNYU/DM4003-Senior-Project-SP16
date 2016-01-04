@@ -48,10 +48,11 @@
     <td><strong>Target Audience</strong></td> 
     <td>
     <ul>
+    <li>Who is this project for? Please note that everyone is not a valid answer. Target is the key word here.</li>
     <li>Who cares? Who will care? Who is your target audience?</li>
     <li>What do you want your target audience to experience when they interact with your project?</li>
     </ul>
-    (Who is this project for? Please note that everyone is not a valid answer. Target is the key word here.)</td>
+    </td>
 </tr>
 <tr>
     <td><strong>Competitive and/or Comparative Analysis</strong></td>
