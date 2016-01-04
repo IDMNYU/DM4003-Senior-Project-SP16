@@ -7,7 +7,7 @@
 
 <strong>Please remember you can do senior team projects.</strong>
 * Please post **as a PDF** to your <a href="dm4003_senior_project_website.md" target="_blank">process website</a>.
-* Please name your file as firstnamelastname_projectplan#_date.pdf (i.e. deangeladuff_projectplan1_2016jan13.pdf)
+* Please name your file as firstnamelastname_projectplan#_date.pdf (i.e. deangeladuff_projectplan1_2016jan15.pdf)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 
 <table>
