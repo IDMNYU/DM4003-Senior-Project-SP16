@@ -20,7 +20,6 @@ You should have a **dedicated**, senior project website to document your **daily
 * *Daily/Weekly Senior Progress/Process*
   * at least, 1 post per week DUE at noon on Wednesdays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
-  * Project Advisor meeting notes (2-4x)
   * Accountability partner meeting notes
   * pdfs of any presentations (annotated)
   * notes taken about your project, paper, and presentations by you or your accountability partner
