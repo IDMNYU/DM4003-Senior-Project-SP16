@@ -42,15 +42,15 @@
     <ul>
     <li>Why are you doing this project?</li> 
     <li>What are you discovering here? What questions are you asking? What are you exploring?</li> 
-    <li>Show and discuss prior work as evidence of your ability to engage in this project.</li></td>
+    <li>Show and discuss prior work as evidence of your ability to engage in this project.</li>
+    </ul></td>
 </tr>
 <tr>
     <td><strong>Inspiration</strong></td> 
     <td>
     <ul>
-    <li>Why are you doing this project?</li> 
-    <li>What are you discovering here? What questions are you asking? What are you exploring?</li> 
-    <li>Show and discuss prior work as evidence of your ability to engage in this project.</li></td>
+    <li></li>
+    </ul></td>
 </tr>
 <tr>
     <td><strong>Target Audience</strong></td> 
