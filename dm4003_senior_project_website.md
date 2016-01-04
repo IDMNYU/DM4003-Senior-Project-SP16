@@ -27,7 +27,7 @@ You should have a **dedicated**, thesis website to document your **weekly** prog
   * Milestones / Tasks that have been completed (transcribed from your personal kanban)
   * Include who or what was involved.
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
-  * If you do not do anything for the week, write **I did not work on my thesis this week.**
+  * If you do not do anything for the week, write **I did not work on my senior project this week.**
 
 
 * *An About Page*
