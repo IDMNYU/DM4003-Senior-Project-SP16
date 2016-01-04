@@ -38,7 +38,11 @@
 </tr>
 <tr>
     <td><strong>Motivation</strong></td> 
-    <td><strong>Why are you doing this project?</strong> What are you discovering here? What questions are you asking? What are you exploring? <strong>Show and discuss prior work as evidence of your ability to engage in this project.</strong>)</td>
+    <td>
+    <ul>
+    <li><strong>Why are you doing this project?</strong></li> 
+    <li>What are you discovering here? What questions are you asking? What are you exploring?</li> 
+    <li><strong>Show and discuss prior work as evidence of your ability to engage in this project.</strong></li></td>
 </tr>
 <tr>
     <td><strong>Target Audience</strong></td> 
