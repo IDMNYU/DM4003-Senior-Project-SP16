@@ -46,7 +46,7 @@
     </ul></td>
 </tr>
 <tr>
-    <td><strong>Inspiration</strong></td> 
+    <td><strong>Influences</strong></td> 
     <td>
     <ul>
     <li></li>
