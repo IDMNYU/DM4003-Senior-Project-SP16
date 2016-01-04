@@ -1,16 +1,11 @@
-# DM-UY 4003 Senior Project
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
-
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2016 
-    Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
+### DM-UY 4003 Senior Project in Digital Media
+##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
 
 ---
 #DRAFT (ALL CONTENT WILL CHANGE.)
-## PROJECT PLAN
+# Project Plan
 
-<strong>Please note you can do senior team projects.</strong>
+<strong>Please remember you can do senior team projects.</strong>
 * Please post **as a PDF** to your <a href="dm4003_senior_project_website.md" target="_blank">process website</a>.
 * Please name your file as firstnamelastname_projectplan#_date.pdf (i.e. deangeladuff_projectplan1_2016jan13.pdf)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
