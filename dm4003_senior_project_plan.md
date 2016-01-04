@@ -55,8 +55,11 @@
     </td>
 </tr>
 <tr>
-    <td><strong>Competitive and/or Comparative Analysis</strong></td>
-    <td>Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? </td>
+    <td><strong>Related Projects</strong></td>
+    <td>
+    <ul>
+    <li>Compare and contast similar projects by other artists, designers, or creative technologists to yours.</li>
+<li>Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)?</li></td>
 </tr>
 <tr>
     <td><strong>Resources</strong></td>   
