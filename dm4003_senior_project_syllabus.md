@@ -1,6 +1,6 @@
 # DM-UY 4003 Senior Project
 
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
+![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     De Angela L. Duff • deangela.duff@nyu.edu • Spring 2016 
