@@ -49,7 +49,7 @@
     <td><strong>Influences</strong></td> 
     <td>
     <ul>
-    <li></li>
+    <li>List other artists, designers, or entrepreneur’s and their work that influences your work.</li>
     </ul></td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@
 </tr>
 <tr>
     <td><strong>Research / Reference / Influences</strong></td>        
-    <td>Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
+    <td>Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of  tech research, material research, visual research, collection, interviews, observation, etc.
         <ul>
         <li>You should decide what kinds of research / reference / influences is most appropriate for your project.</li>
         </ul>
