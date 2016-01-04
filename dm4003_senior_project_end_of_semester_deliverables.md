@@ -3,11 +3,6 @@
 
 ---
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2016
-    Wednesdays •  • 2MTC MAGNET 811 • 3 credit hrs
-
----
-
 ## END OF SEMESTER DELIVERABLES
 
 ### EXIT INTERVIEW SURVEY
