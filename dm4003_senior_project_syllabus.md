@@ -28,6 +28,14 @@ The primary goal for the student is to develop a hunger and passion for self-dir
 
 As you engage in the rigorous practice of a professional artist, designer, or entrepreneur, your project will naturally evolve and change, and may in fact take quite a different shape than what you propose in the beginning of the semester. This is normal and OK.
 
+The Senior Project can take many forms, including but not limited to the following:
+
+* a screen-based, digital application (website, mobile app, game, etc.)
+* a physical object, musical instrument, physical game, or interactive installation
+* a performance or event,
+* a moving image (animation, film, motion graphics, video web series, etc.)
+audio (podcast, etc.)
+* print medium
 
 ## Your Commitment to Senior Project
 Excerpt from the book *Anything You Want* by Derek Sivers
