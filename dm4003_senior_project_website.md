@@ -16,8 +16,8 @@ You should have a **dedicated**, thesis website to document your **weekly** prog
 
 
 
-##What your thesis process website should contain?
-* *Weekly Thesis Progress/Process*
+##What your senior project process website should contain?
+* *Daily/Weekly Senior Progress/Process*
   * at least, 1 post per week DUE at noon on Wednesdays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * Project Advisor meeting notes (2-4x)
