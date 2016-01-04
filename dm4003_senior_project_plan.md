@@ -63,7 +63,7 @@
     </td>
 </tr>
 <tr>
-    <td><strong>Reference / Related Projects</strong></td>
+    <td><strong>Related Projects</strong></td>
     <td>
     <ul>
     <li>Compare and contast similar projects by other artists, designers, or creative technologists to yours.</li>
