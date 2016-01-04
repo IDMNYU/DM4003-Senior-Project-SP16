@@ -10,7 +10,7 @@
 
 #DRAFT (ALL CONTENT WILL CHANGE.)
 ###Gitbook Repository: 
-
+* https://www.gitbook.com/book/deangela/senior-project-in-digital-media-spring-2016/content
 ####Course Management Site
 * http://bxmc.slack.com 
 
