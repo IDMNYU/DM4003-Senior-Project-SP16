@@ -37,7 +37,7 @@ The Senior Project can take many forms, including but not limited to the followi
 audio (podcast, etc.)
 * print medium
 
-The Senior Project can also be a team-based project if your teammate is also taking this semester of Senior Project.
+The Senior Project *can also be a team-based project* if your teammate is also taking this semester of Senior Project.
 
 ## Your Commitment to Senior Project
 Excerpt from the book *Anything You Want* by Derek Sivers
