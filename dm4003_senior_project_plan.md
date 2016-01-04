@@ -109,7 +109,7 @@
     The specific parameters and expectations of each version will be individually determined in consultation with the professor.</td>
 </tr>
 <tr>
-    <td><strong>Milestones / Calendar</strong></td>
+    <td><strong>Project Milestones</strong></td>
     <td>
     <ul>
     <li>Break down your milestones into actionable tasks using a system of your choice.</li>
