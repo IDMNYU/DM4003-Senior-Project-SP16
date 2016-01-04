@@ -5,9 +5,9 @@
 * [Calendar](dm4003_senior_project_calendar.md)
 * [Project Plan](dm4003_senior_project_plan.md)
 * [Process Website](dm4003_senior_project_website.md)
+* [Personal Kanban](personal_kanban.md)
 * [Card Sorting](dm4003_senior_project_card_sorting.md)
 * [Groups](dm4003_senior_project_groups.md)
 * [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
 * [Recommended Resources](recommended_resources.md)
-* [Personal Kanban](personal_kanban.md)
 
