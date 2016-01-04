@@ -3,7 +3,7 @@
 
 ---
 
-## END OF SEMESTER DELIVERABLES
+## End Of Semester Deliverables
 
 ### EXIT INTERVIEW SURVEY
 Please fill out by Friday, May 15th. The survey will be mailed to your NYU email account. The URL will be inserted here once the survey is created.
