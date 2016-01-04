@@ -159,7 +159,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
 
-#### Your final grade will be based on a synsenior projects of quantitative & qualitative rubrics:
+#### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
 ##### Quantitative Grading Overview
 
