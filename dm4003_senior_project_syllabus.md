@@ -246,9 +246,9 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED TOOLS
 * Analog or Digital Calendar
-* [Personal Kanban] (http://www.personalkanban.com)
-* [RescueTime] (http://rescuetime.com)
-* [Zapier] (http://zapier.com) (optional)
+* [Personal Kanban](http://www.personalkanban.com)
+* [RescueTime](http://rescuetime.com) (optional)
+* [Zapier](http://zapier.com) (optional)
 
 
 ### RECOMMENDED RESOURCES
