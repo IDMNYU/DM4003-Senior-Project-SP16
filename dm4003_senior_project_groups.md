@@ -3,7 +3,7 @@
 
 ---
 
-## SENIOR PROJECT GROUPS
+## Senior Project Groups
 
 Group A and Group B will alternate our individual meetings every other week. Consult the <a href="dm4003_senior_project_calendar.md">calendar</a> for dates.
 
