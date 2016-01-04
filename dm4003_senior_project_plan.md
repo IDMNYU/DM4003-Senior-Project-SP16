@@ -28,27 +28,17 @@
 </tr>
 <tr>
     <td><strong>Project Statement / Goal</strong></td>    
-    <td>Read <i>Do The Work</i> and answer the following questions. 
+    <td>
     <ul>
-    <li>What is your project about? Think Elevator Pitch or 3 act structure (pp. 23–28)
-        <ul>
-        <li>1 to 4 sentences max.</li>
-        <li>3 if you follow Steven Pressfield’s 3-act structure.</li>
-        </ul>
-    <li>What is your project’s theme(s)? (p. 48)</li>
+    <li>What is your project about? (concept)</li>
+    <li>What is your project’s theme(s)?</li>
     </ul>
 
     (What are your project's conceptual underpinnings?)</td>
 </tr>
 <tr>
     <td><strong>Motivation</strong></td> 
-    <td>Read <i>Do The Work</i> and answer the following questions in context of your project.
-    <ul>
-    <li>What does she (you) love? (p. 24)</li>
-    <li>How bad do you want to complete your project? (p. 68)</li>
-    <li>Why do you want to complete your project? (p. 68-69)</li>
-    </ul>
-    (<strong>Why are you doing this project?</strong> What are you discovering here? What questions are you asking? What are you exploring? <strong>Show and discuss prior work as evidence of your ability to engage in this project.</strong>)</td>
+    <td><strong>Why are you doing this project?</strong> What are you discovering here? What questions are you asking? What are you exploring? <strong>Show and discuss prior work as evidence of your ability to engage in this project.</strong>)</td>
 </tr>
 <tr>
     <td><strong>Target Audience</strong></td> 
