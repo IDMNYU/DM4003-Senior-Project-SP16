@@ -30,11 +30,11 @@
     <td><strong>Project Statement / Goal</strong></td>    
     <td>
     <ul>
-    <li>What is your project about? (concept)</li>
+    <li>What is your project about?</li>
+    <li>What are your project's conceptual underpinnings?</li>
     <li>What is your project’s theme(s)?</li>
     </ul>
-
-    (What are your project's conceptual underpinnings?)</td>
+</td>
 </tr>
 <tr>
     <td><strong>Motivation</strong></td> 
