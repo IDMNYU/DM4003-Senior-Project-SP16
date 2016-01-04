@@ -89,7 +89,7 @@
     </td>
 </tr> 
 <tr>
-    <td><strong>Development</strong></td> 
+    <td><strong>Prototypes</strong></td> 
     <td>Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
         <ul>
         <li>You should know what the concept of a prototype is but, if you do not know, a prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
@@ -99,7 +99,7 @@
     </td>
 </tr>
 <tr>
-    <td><strong>Prototypes / Project Versions</strong></td> 
+    <td><strong>Project Versions</strong></td> 
     <td>Alpha, Beta, and Gold refer to a project’s life cycle.
         <ul>
         <li><strong>Alpha</strong> Version is the testing phase of form and functionality</li>
