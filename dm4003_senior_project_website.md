@@ -5,7 +5,7 @@
 
 
 You should have a **dedicated**, senior project website to document your **daily** and/or **weekly** progress/process of your senior project. Students are expected to share their progress with others using their process website.
-* Ideally under your own domain name with a "thesis" folder. See Spencer's link below under Example Process Websites. 
+* Ideally under your own domain name with a "sp" folder. See Spencer's link below under Example Process Websites. 
     * I recommend [Siteground](http://siteground.com) for purchasing a domain and web hosting.
 * Second best, is hosting on http://sites.bxmc.poly.edu
  * You can receive web space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web space.
