@@ -8,5 +8,5 @@
 * [Card Sorting](dm4003_senior_project_card_sorting.md)
 * [Groups](dm4003_senior_project_groups.md)
 * [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
-* Recommended Resources
+* [Recommended Resources](recommended_resources.md)
 
