@@ -9,11 +9,14 @@
 Please fill out by Friday, May 15th. The survey will be mailed to your NYU email account. The URL will be inserted here once the survey is created.
 
 ## DELIVERABLES FOR IDM PROMOTION and ARCHIVE
-You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
-Each student will provide their own dropbox link. 
+*Direct message the dropbox link or google drive folder link to deangela on slack.*
 
-Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) A dropbox link is actually different than sharing an actual dropbox folder.
+If you want to create a dropbox account and have not already done so, let me know. Both you and I can get additional free space if I invite you.
+
+Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
+ 
+Create a dropbox link (NOT folder, see above) or google drive folder that contains the following. Make sure all filenames include your name and ms thesis fa15 and descriptive text of the content: 
  
 Create a dropbox link with the following contents:
   * title of your project
