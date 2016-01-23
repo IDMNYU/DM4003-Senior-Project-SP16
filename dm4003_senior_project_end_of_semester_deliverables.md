@@ -21,7 +21,7 @@ Create a dropbox link with the following contents:
   * short text description of your project
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
   * (OPTIONAL) quicktime video (for those of you doing video projects or projects that can be documented with video)
-  * (for lyndsey only) mp3s of all the episodes
+  * mp3s of all the episodes
   
 
 ### END OF SEMESTER PRESENTATION
@@ -30,8 +30,8 @@ Create a dropbox link with the following contents:
 
 ### END OF SEMESTER PUBLIC PRESENTATIONS
 
-Wed, May 13, 2-6pm EST
-MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)
+Date and Time TBD,
+MAGNET 811 (Attendance is MANDATORY for the entire # hours!)
 
 Use the project plan guidelines as a guide for content. Your public presentation should showcase your completed senior project–gold version.
 
@@ -70,7 +70,7 @@ Use the project plan guidelines as a guide for content. Your public presentation
 * What resources have you found to be specifically helpful to you for this course? And why?
 
 
-#### LETTER TO NEXT COHORT   
+### LETTER TO NEXT COHORT   
 
 * Please name your file as yourname_lettertonextcohort_seniorproject.pdf
 * Direct message your letter *as a pdf* to deangela on slack. 
