@@ -26,7 +26,7 @@ Identify fifteen existing digital media projects/apps/events/games/installations
 
 **Step 2: DESCRIPTOR CARDS**
 
-Choose a second color of card and create a set of descriptor cards for each project by listing adjectives or traits of those projects. Try to extract at least five descriptor cards per project. For the Rain Room project the descriptor cards could be: environment, feeling of rain, spectacle, scientific, weather, biological connection, and installation.
+Choose a second color of card and create a set of descriptor cards for each project by listing adjectives or traits of those projects. Try to extract at least three descriptor cards per project. For the Rain Room project the descriptor cards could be: environment, feeling of rain, spectacle, scientific, weather, biological connection, and installation.
 
 **Step 3: ENABLER CARDS**
 
