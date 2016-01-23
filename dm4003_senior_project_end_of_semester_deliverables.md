@@ -8,7 +8,7 @@
 ## EXIT INTERVIEW SURVEY
 Please fill out by Friday, May 15th. The survey will be mailed to your NYU email account. The URL will be inserted here once the survey is created.
 
-## DELIVERABLES FOR IDM PROMOTION and ARCHIVE
+## DELIVERABLES FOR IDM PROMOTION and ARCHIVES
 
 *Direct message the dropbox link or google drive folder link to deangela on slack.*
 
