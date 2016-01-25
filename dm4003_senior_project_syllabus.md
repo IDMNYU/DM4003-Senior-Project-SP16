@@ -251,7 +251,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 * [Zapier](http://zapier.com) (optional)
 
 
-### [RECOMMENDED RESOURCES]()
+### [RECOMMENDED RESOURCES](recommended_resources.md)
 
 See Appendix
 
