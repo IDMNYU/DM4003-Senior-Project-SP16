@@ -4,7 +4,7 @@
 * [Syllabus](dm4003_senior_project_syllabus.md)
 * [Calendar](dm4003_senior_project_calendar.md)
 * [Project Plan](dm4003_senior_project_plan.md)
-* [Process Website](dm4003_senior_project_website.md)
+* [Project Website](dm4003_senior_project_website.md)
 * [Personal Kanban](personal_kanban.md)
 * [Card Sorting](dm4003_senior_project_card_sorting.md)
 * [Groups](dm4003_senior_project_groups.md)
