@@ -255,17 +255,19 @@
 </tr>
 <tr>
     <td>Wed, May 11<br>2-6pm EST</td>
-    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)<br> <a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a></td>
+    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)<br> </td>
 </tr>
 <tr>
 <td>Mon, May 11-Fri, May 15</td>
 <td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a><br>
+Direct message the following to deangela on slack:
 <a href="dm4003_senior_project_end_of_semester_deliverables.md">
 Deliverables For IDM Promotion and Archive<br>
 End of Semester Presentation (exported as pdf)<br>
 Final Self-Assessment Due (pdf)<br>
 Letter to Next Cohort Due (pdf)<br>
-Portfolio Website</a></td>
+Portfolio Website</a>
+<a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a></td>
 </tr>
 </table>
 
