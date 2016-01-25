@@ -75,11 +75,11 @@ Video and/or Audio documentation (varies by student)
 
   
 
-### END OF SEMESTER PRESENTATION
+## END OF SEMESTER PRESENTATION
 * Export as a pdf and post on slack
 
 
-### END OF SEMESTER PUBLIC PRESENTATIONS
+## END OF SEMESTER PUBLIC PRESENTATIONS
 
 Date and Time TBD,
 MAGNET 811 (Attendance is MANDATORY for the entire # hours!)
@@ -94,7 +94,7 @@ Use the project plan guidelines as a guide for content. Your public presentation
      for 20 minutes total. 
 
 
-### FINAL SELF-ASSESSMENT
+## FINAL SELF-ASSESSMENT
 
 * Please name your file as yourname_midterm_assessment.pdf
 * Email your final self assessment *as a pdf* to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
@@ -121,7 +121,7 @@ Use the project plan guidelines as a guide for content. Your public presentation
 * What resources have you found to be specifically helpful to you for this course? And why?
 
 
-### LETTER TO NEXT COHORT   
+## LETTER TO NEXT COHORT   
 
 * Please name your file as yourname_lettertonextcohort_seniorproject.pdf
 * Direct message your letter *as a pdf* to deangela on slack. 
@@ -129,7 +129,7 @@ Use the project plan guidelines as a guide for content. Your public presentation
 Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
 
 
-### PORTFOLIO WEBSITE
+## PORTFOLIO WEBSITE
 *NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Website</a>.*
 
 * Post to slack
