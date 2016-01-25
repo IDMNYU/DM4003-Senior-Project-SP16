@@ -14,18 +14,18 @@ Group A and Group B will alternate our individual meetings every other week. Con
     <td><strong>Group B</strong></td>
 </tr>
 <tr>
-    <td>4:30pm <strong></strong><br>
+    <td>4:30pm <strong>Class</strong><br>
     4:50pm <strong></strong><br>
     5:10pm <strong></strong><br>
     5:30pm <strong></strong><br>
     5:50pm <strong></strong><br>
     6:10pm <strong></strong></td>
-    <td>4:30pm <strong></strong><br>
+    <td>4:30pm <strong>Class</strong><br>
     4:50pm <strong></strong><br>
     5:10pm <strong></strong><br>
     5:30pm <strong></strong><br>
     5:50pm <strong></strong><br>
-    6:10pm <strong></strong></td>
+    </td>
 </tr>
 </table>
 
