@@ -174,7 +174,9 @@
     <td>Wed, Apr 6</td>
      <td><strong>Homework</strong>
     <ul>
+    
     <li><strong>10 Minute Project Presentation</strong> Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     
      
@@ -195,6 +197,7 @@
     <li>Portfolio Website</li>
     </ul>
     <li><strong>To receive extra credit</strong>, make sure you have scheduled a career coaching appointment with the Wasserman Center BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."</li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -207,17 +210,42 @@
 </tr>
 <tr>
     <td>Wed, Apr 20</td>
-     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+     <td><strong>Homework</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li>
+    <strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br>
+    </td>
 </tr>
 <tr>
     <td>Wed, Apr 27</td>
-     <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+    <td><strong>Homework</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a></li>
+    <li>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> 
+    <ul>
+    <li>10 Minute Project Presentations w/ Beta Version Demo Due</li>
+    </ul></li>
+    </ul></td>
 </tr>
 
 <tr>
     <td>Wed, May 04</td>
-    <td>
-    <strong>Class Critique: Senior Project – Gold Version Due</strong><br>
+    <td><strong>Homework</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+     <strong>Class</strong>
+    <ul>
+    <li><strong>Class Critique: Senior Project – Gold Version Due</strong></li>
+    </ul>
     
     </td> 
 </tr>
