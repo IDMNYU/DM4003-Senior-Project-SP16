@@ -1,6 +1,6 @@
-# Recommended Resources
+# RECOMMENDED RESOURCES
  
-## RECOMMENDED WEBSITES
+## Recommended Websites
 
 *Presentation*
 
@@ -28,7 +28,7 @@
 
   * [NYU's Wasserman Center's Finding a Mentor](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/finding-a-mentor.html)
   
-### RECOMMENDED BOOKS
+### Recommended Books
 
 *Career*
 
