@@ -251,14 +251,9 @@ Students, in addition to their regular NYU allotment, also have available to the
 * [Zapier](http://zapier.com) (optional)
 
 
-### RECOMMENDED RESOURCES
+### [RECOMMENDED RESOURCES]()
 
-
-
-
-
-
-
+See Appendix
 
 
 ### [PROJECT PLAN](dm4003_senior_project_plan.md)
