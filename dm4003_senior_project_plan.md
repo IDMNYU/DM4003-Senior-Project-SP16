@@ -2,7 +2,6 @@
 ##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
 
 ---
-#DRAFT (ALL CONTENT WILL CHANGE.)
 # Project Plan
 
 <strong>Please remember you can do senior team projects.</strong>
