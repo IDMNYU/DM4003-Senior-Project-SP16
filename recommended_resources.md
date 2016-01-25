@@ -3,7 +3,7 @@
 
 ---
 
-# RECOMMENDED RESOURCES
+
  
 ## Recommended Websites
 
