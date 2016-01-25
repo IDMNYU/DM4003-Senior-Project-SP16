@@ -1,5 +1,13 @@
 # Recommended Resources
 
+### RECOMMENDED TOOLS
+
+**Time Management**
+
+* [Personal Kanban](http://www.personalkanban.com)
+* [RescueTime](http://rescuetime.com) 
+* [Zapier](http://zapier.com)
+ 
 ### RECOMMENDED BOOKS
 
 **Career**
