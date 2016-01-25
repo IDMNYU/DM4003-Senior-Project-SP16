@@ -69,34 +69,63 @@
     <td><strong>Homework</strong>
     <ul>
     <li><strong>Post your process website URL</strong> on slack in our shared channel.</li>
-    
+    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
     
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
       </ul>
       <strong>Class</strong>
       <ul>
       <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
-    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
+    
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
     <li>Confirm Groups A and B Meeting Times and Project Critique Schedule</li>
       </ul></td> 
 </tr>
 <tr>
     <td>Wed, Feb 17</td>
-    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
+    <td><strong>Homework</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.</li>
+    <strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong>
+    </ul></td> 
 </tr>
 <tr>
     <td>Wed, Feb 24</td>
-    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+    <td><strong>Homework</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.</li>
+    <li><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></li>
+    </ul></td> 
 </tr>
 <tr>
     <td>Wed, Mar 02</td>
-    <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
+    <td><strong>Homework</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></li>
+    </ul></td> 
 </tr>
 <tr>
     <td>Wed, Mar 09</td>
-    <td>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+    <td><strong>Homework</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></li>
+    </ul></td> 
 </tr>
 
 <tr>
@@ -106,8 +135,16 @@
 
 <tr>
     <td>Wed, Mar 23</td>
-    <td><strong>Midterm Self Assessment Rubric Due</strong> (pdf on slack under files if your copy is lost)<br><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> 
+    <td><strong>Homework</strong>
+    <ul>
+    <li><strong>Midterm Self Assessment Rubric Due</strong> (Direct message as pdf to deangela on slack)</li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>
+   
+    </ul></td> 
 </tr>
 <tr>
     <td>Wed, Mar 30</td>
