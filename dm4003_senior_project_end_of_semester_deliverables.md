@@ -30,6 +30,10 @@ PDF Cover:
 * Spring 2016
 
 I would use the [project plan](dm4003_senior_project_plan.md) as a guideline for the structure, and your process website and proejct presentations for content.
+ 
+Content should also include:
+  * URL to your project website
+
 
 Combine multiple pdfs using Adobe Acrobat Pro:
 FILE > CREATE > COMBINE INTO A SINGLE PDF
@@ -48,7 +52,7 @@ I highly suggest blurb
 * **Shipping is 7 to 10 business days** (KEEP THIS IN MIND!)
 
 
-## DELIVERABLES FOR IDM PROMOTION and ARCHIVE
+## DOCUMENTATION FOR IDM ARCHIVES and PROMOTION
 
 *Direct message the dropbox link or google drive folder link to deangela on slack.*
 
@@ -58,18 +62,15 @@ Each student will provide their own **dropbox link**. A dropbox link is actually
  
 Create a dropbox link (NOT folder, see above) or google drive folder that contains the following. Make sure all filenames include your name and ms thesis fa15 and descriptive text of the content: 
 
-  * title of your project
-  * URL to your project website
-  * short text description of your project
-  * Photo documentation (for all students)
-  * ***at least*** 3, hi-res images of your project (RAW preferably or 300dpi)
-* Video or Audio documentation (varies by student)
-*  If creating a screen-based, digital application (website, mobile app, game, etc.), create video documentation by screen capturing a user interacting with your digital project.
- *  If creating a physical object, musical instrument, physical game, or interactive installation, create video documentation of a user interacting with your physical project.
- *  If creating a performance or event, please provide video documentation of the performance or event.
- * If creating any sort of moving image (animation, film, motion graphics, video web series, etc.), please provide compressed video files of your moving image.
- *  If creating an audio podcast, provide mp3s of all podcasts.
- *  If creating any print medium, provide an original copy of it or provide a digital copy of it (preferably pdf).
+* Photo documentation (for all students)
+    * ***at least*** 3, hi-res images of your project (RAW preferably or 300dpi)
+  * Video or Audio documentation (varies by student)
+    * If creating a screen-based, digital application (website, mobile app, game, etc.), create video documentation by screen capturing a user interacting with your digital project.
+    * If creating a physical object, musical instrument, physical game, or interactive installation, create video documentation of a user interacting with your physical project.
+     * If creating a performance or event, please provide video documentation of the performance or event.
+    * If creating any sort of moving image (animation, film, motion graphics, video web series, etc.), please provide compressed video files of your moving image.
+    * If creating an audio podcast, provide mp3s of all podcasts.
+    * If creating any print medium, provide an original copy of it or provide a digital copy of it (preferably pdf).
 
   
 
