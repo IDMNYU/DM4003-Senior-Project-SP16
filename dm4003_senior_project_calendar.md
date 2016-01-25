@@ -70,17 +70,15 @@
     <ul>
     <li><strong>Post your process website URL</strong> on slack in our shared channel.</li>
     
-    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
-    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
-    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
-    <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
-    <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
-    <li>Confirm Groups A and B Meeting Times and Project Critique Schedule</li>
+    
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
       </ul>
       <strong>Class</strong>
       <ul>
-      
+      <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
+    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
+    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
+    <li>Confirm Groups A and B Meeting Times and Project Critique Schedule</li>
       </ul></td> 
 </tr>
 <tr>
