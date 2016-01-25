@@ -172,14 +172,38 @@
 
 <tr>
     <td>Wed, Apr 6</td>
-     <td><strong>Class Critique: 10 Minute Project Presentations Drafts from all students</strong>
-     <br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br><strong></td>
+     <td><strong>Homework</strong>
+    <ul>
+    <li><strong>10 Minute Project Presentation</strong> Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
+    </ul>
+    
+     
+    <strong>Class</strong>
+    <ul>
+    <li><strong>Class Critique: 10 Minute Project Presentation Drafts from all students</strong></li>
+    </ul></td>
 </tr>
 <tr>
     <td>Wed, Apr 13</td>
-    <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or contact)<br>
-    Class Critique: Final LinkedIn Profile Due (post link from your class website from about or contact.)<br>
-    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
+    <td>
+    <strong>Homework</strong>
+    <ul>
+    <li>Polish</li> 
+    <ul>
+    <li>Resume and Cover Letter</li>
+    <li>LinkedIn Profile</li>
+    <li>Portfolio Website</li>
+    </ul>
+    <li><strong>To receive extra credit</strong>, make sure you have scheduled a career coaching appointment with the Wasserman Center BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."</li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li>Class Critique:</li>
+    <ul>
+    <li>Final Resume and Cover Letter Due (post PDF on your class website from about or contact)</li>
+    <li>Final LinkedIn Profile Due (post link from your class website from about or contact.)</li>
+    <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></li>
+    </ul></ul></td> 
 </tr>
 <tr>
     <td>Wed, Apr 20</td>
