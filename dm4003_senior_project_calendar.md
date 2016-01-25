@@ -255,7 +255,15 @@
 </tr>
 <tr>
     <td>Wed, May 11<br>2-6pm EST</td>
-    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)<br> </td>
+    <td><strong>Homework</strong>
+    <ul>
+    <li>Prepare for <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)</li>
+    </ul></td>
 </tr>
 <tr>
 <td>Mon, May 11-Fri, May 15</td>
