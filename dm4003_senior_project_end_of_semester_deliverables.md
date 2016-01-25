@@ -9,13 +9,14 @@
 Please fill out by Friday, May 15th. The survey will be mailed to your NYU email account. The URL will be inserted here once the survey is created.
 
 ## END OF SEMESTER PDF
-Please name your file as firstnameinitiallastname_senior_sp16.pdf (i.e. dduff_senior_sp16.pdf) 
+
 
 ### First and Second Drafts
 *Direct message to deangela as a pdf*
 * Please name your file as firstnameinitiallastname_senior_sp16_#draft.pdf (i.e. dduff_senior_sp16_1stdraft.pdf and dduff_senior_sp16_2nddraft.pdf)
 
 #### Final Version
+* Please name your file as firstnameinitiallastname_senior_sp16.pdf (i.e. dduff_senior_sp16.pdf) 
 * If pdf, **post on senior project channel on slack** for everyone to see and download in the class
 * If physical book, bring the actual book AND provide the link to preview on blurb. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the senior project channel on slack.
 
