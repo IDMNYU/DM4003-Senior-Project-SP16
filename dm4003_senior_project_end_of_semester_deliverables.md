@@ -9,15 +9,17 @@
 Please fill out by Friday, May 15th. The survey will be mailed to your NYU email account. The URL will be inserted here once the survey is created.
 
 ## END OF SEMESTER PDF
-Please name your file as firstnameinitiallastnameseniorproject_sp16_#draft.pdf (i.e. dduff_sp_sp16_1stdraft.pdf and dduff_sp_sp16_2nddraft.pdf) 
-#### First and Second Drafts
-* *Direct message to deangela as a pdf*
+Please name your file as firstnameinitiallastname_senior_sp16.pdf (i.e. dduff_senior_sp16.pdf) 
+
+### First and Second Drafts
+*Direct message to deangela as a pdf*
+* Please name your file as firstnameinitiallastname_senior_sp16_#draft.pdf (i.e. dduff_senior_sp16_1stdraft.pdf and dduff_senior_sp16_2nddraft.pdf)
 
 #### Final Version
 * If pdf, **post on senior project channel on slack** for everyone to see and download in the class
 * If physical book, bring the actual book AND provide the link to preview on blurb. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the senior project channel on slack.
 
-This should be compiled using **Adobe InDesign**. The visual foundation principles we have been learning all semester should be present.    
+This should be compiled using **Adobe InDesign**.   
 
 PDF Cover:
 * Your first and last name
@@ -26,7 +28,7 @@ PDF Cover:
 * Senior Project in Digital Media
 * Spring 2016
 
-I would use the [project plan]() as a guideline.
+I would use the [project plan](dm4003_senior_project_plan.md) as a guideline for the structure, and your process website and proejct presentations for content.
 
 Combine multiple pdfs using Adobe Acrobat Pro:
 FILE > CREATE > COMBINE INTO A SINGLE PDF
@@ -35,9 +37,9 @@ or using Preview (Drag and Drop with thumbnail panel)
 
 ## (OPTIONAL instead of PDF) END OF SEMESTER BOOK REQUIREMENTS
 
-This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
+This should be compiled using **Adobe InDesign**.    
 
-See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT (EXCEPT do not include assessments in the book. Direct message deangela the assessments on Slack as pdfs).
+See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT.
 
 I highly suggest blurb
 * [Blurb Formats and Pricing](http://www.blurb.com/create/book/pricing#color-pocket) ($4.95 plus shipping)
@@ -48,11 +50,15 @@ Cover (and optional spine label):
 * Your first and last name
 * Your Logo
 * The Name of Your Project
-* Visual Foundation Studio 2015 or VFS 2015
+* Senior Project in Digital Media
+* Spring 2016
+
 
 ### First and Second Drafts
 *Direct message to deangela as a pdf*
-* Please name your file as firstnameinitiallastname_vfs_fa15_#draft.pdf (i.e. dduff_vfs_fa15_1stdraft.pdf and dduff_vfs_fa15_2nddraft.pdf) 
+* Please name your file as firstnameinitiallastname_senior_sp16_#draft.pdf (i.e. dduff_senior_sp16_1stdraft.pdf and dduff_senior_sp16_2nddraft.pdf)
+
+
 ## DELIVERABLES FOR IDM PROMOTION and ARCHIVE
 
 *Direct message the dropbox link or google drive folder link to deangela on slack.*
