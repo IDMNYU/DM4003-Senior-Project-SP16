@@ -25,7 +25,7 @@
     <td>Wed, Jan 27</td>
     <td>
         <ul>
-        <li>In-Class Exercise (Post-its): List 1 to 5 learning goals and/or expectations for this class. One per post-it.</li>
+        
         <li><a href="dm4003_senior_project_syllabus.md">Syllabus</a> Q&amp;A</li>
         <li>Discuss brainstorming techniques for coming up with project idea:
             <ul>
@@ -33,11 +33,14 @@
             <li><a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER</a> Technique</li>
             <li><a href="dm4003_senior_project_card_sorting.md" target="_blank">Card Sorting</a> Technique</li>
             </ul>
-        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
+        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
     <ul>
     <li>I recommend using post-its so you can move them around
     OR</li>
     <li>Digital Representation of your milestones using kanbanery.com.</li>
+    </ul>
+    <li>In-Class Exercise (Post-its): What are your expectations for this class? One per post-it.</li>
+    <li>In-Class Exercise: Brainstorm your project using one or more of the recommended techniques above.</li>
     </ul>
 </td>  
 </tr>
