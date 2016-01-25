@@ -47,18 +47,6 @@ I highly suggest blurb
 * I recommend the [Magazine format](http://www.blurb.com/pricing#magazines). It's the cheapest.
 * **Shipping is 7 to 10 business days** (KEEP THIS IN MIND!)
 
-Cover (and optional spine label):
-* Your first and last name
-* Your Logo
-* The Name of Your Project
-* Senior Project in Digital Media
-* Spring 2016
-
-
-### First and Second Drafts
-*Direct message to deangela as a pdf*
-* Please name your file as firstnameinitiallastname_senior_sp16_#draft.pdf (i.e. dduff_senior_sp16_1stdraft.pdf and dduff_senior_sp16_2nddraft.pdf)
-
 
 ## DELIVERABLES FOR IDM PROMOTION and ARCHIVE
 
