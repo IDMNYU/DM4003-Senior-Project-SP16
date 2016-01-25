@@ -8,6 +8,51 @@
 ## EXIT INTERVIEW SURVEY
 Please fill out by Friday, May 15th. The survey will be mailed to your NYU email account. The URL will be inserted here once the survey is created.
 
+## END OF SEMESTER PDF
+Please name your file as firstnameinitiallastnameseniorproject_sp16_#draft.pdf (i.e. dduff_sp_sp16_1stdraft.pdf and dduff_sp_sp16_2nddraft.pdf) 
+#### First and Second Drafts
+* *Direct message to deangela as a pdf*
+
+#### Final Version
+* If pdf, **post on senior project channel on slack** for everyone to see and download in the class
+* If physical book, bring the actual book AND provide the link to preview on blurb. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the senior project channel on slack.
+
+This should be compiled using **Adobe InDesign**. The visual foundation principles we have been learning all semester should be present.    
+
+PDF Cover:
+* Your first and last name
+* Your Logo
+* The Name of Your Project
+* Senior Project in Digital Media
+* Spring 2016
+
+I would use the [project plan]() as a guideline.
+
+Combine multiple pdfs using Adobe Acrobat Pro:
+FILE > CREATE > COMBINE INTO A SINGLE PDF
+or using Preview (Drag and Drop with thumbnail panel)
+
+
+## (OPTIONAL instead of PDF) END OF SEMESTER BOOK REQUIREMENTS
+
+This should be compiled using Adobe InDesign. The visual foundation principles we have been learning all semester should be present.    
+
+See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT (EXCEPT do not include assessments in the book. Direct message deangela the assessments on Slack as pdfs).
+
+I highly suggest blurb
+* [Blurb Formats and Pricing](http://www.blurb.com/create/book/pricing#color-pocket) ($4.95 plus shipping)
+* I recommend the [Magazine format](http://www.blurb.com/pricing#magazines). It's the cheapest.
+* **Shipping is 7 to 10 business days** (KEEP THIS IN MIND!)
+
+Cover (and optional spine label):
+* Your first and last name
+* Your Logo
+* The Name of Your Project
+* Visual Foundation Studio 2015 or VFS 2015
+
+### First and Second Drafts
+*Direct message to deangela as a pdf*
+* Please name your file as firstnameinitiallastname_vfs_fa15_#draft.pdf (i.e. dduff_vfs_fa15_1stdraft.pdf and dduff_vfs_fa15_2nddraft.pdf) 
 ## DELIVERABLES FOR IDM PROMOTION and ARCHIVE
 
 *Direct message the dropbox link or google drive folder link to deangela on slack.*
