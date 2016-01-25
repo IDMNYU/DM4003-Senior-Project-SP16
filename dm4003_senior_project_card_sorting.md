@@ -1,14 +1,9 @@
-# DM-UY 4003 Senior Project
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
-
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 
-    Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
+### DM-UY 4003 Senior Project in Digital Media
+##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
 
 ---
 
-## BRAINSTORMING TECHNIQUE: CARD SORTING
+## BRAINSTORMING TECHNIQUE: Card Sorting
 
 *Co-opted from Dana Karwas' Pre-Thesis Syllabus*
 
