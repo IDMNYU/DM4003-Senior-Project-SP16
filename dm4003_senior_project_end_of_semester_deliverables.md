@@ -38,7 +38,7 @@ or using Preview (Drag and Drop with thumbnail panel)
 
 ## (OPTIONAL instead of PDF) END OF SEMESTER BOOK REQUIREMENTS
 
-    
+This should be compiled using **Adobe InDesign**.    
 
 See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT.
 
