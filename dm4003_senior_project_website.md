@@ -2,7 +2,7 @@
 ##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
 
 ---
-
+#Process Website
 
 You should have a **dedicated**, senior project website to document your **daily** and/or **weekly** progress/process of your senior project. Students are expected to share their progress with others using their process website.
 * Ideally under your own domain name with a folder named after your project. See Spencer's link below under Example Process Websites. 
