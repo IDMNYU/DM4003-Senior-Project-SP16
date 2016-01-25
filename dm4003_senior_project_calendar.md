@@ -50,6 +50,9 @@
     <ul>
     <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated process website</a></strong></li>
+    <ul>
+    <li>Post your first weekly post.
+    </ul>
     
     </ul>
     <strong>Class</strong>
