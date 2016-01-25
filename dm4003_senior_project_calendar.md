@@ -148,11 +148,22 @@
 </tr>
 <tr>
     <td>Wed, Mar 30</td>
-    <td><strong>Class Critique: Senior Project – Alpha Version Due continued</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br>Schedule midterm review individual meetings.<br><strong>Begin midterm review individual meetings.</strong></td>
+    <td><strong>Homework</strong>
+    <ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    <strong>Class</strong>
+    <ul>
+    <li>Schedule Midterm Review Individual Meetings.</li>
+    <li><strong>Class Critique: Senior Project – Alpha Version Due continued</strong></li>
+    </td>
 </tr>
 <tr>
     <td>Thu, Mar 31 or Fri, Apr 1</td>
-    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
+    <td><strong>Midterm Review</strong> 
+    <ul>
+    <li>Individual meetings to be scheduled.</li>
+    </ul></td>
 </tr>
 <tr>
     <td>Fri, Apr 1</td>
