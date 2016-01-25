@@ -50,9 +50,7 @@
     <ul>
     <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated process website</a></strong></li>
-    <ul>
-    <li>Post your first weekly post.
-    </ul>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     
     </ul>
     <strong>Class</strong>
@@ -68,20 +66,10 @@
 </tr>
 <tr>
     <td>Wed, Feb 10</td>
-    <td>
+    <td><strong>Homework</strong>
     <ul>
-    <li><strong>Post your process website URL</strong> on slack as a comment to the message I will post.</li>
-    <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available in the NYU bookstore), write a reading response on your process website, and be prepared to discuss</li>
-        <ul>
-        <li>About this Book p.1-2</li>
-        <li>Orientation: Enemies and Allies p. 3-16</li>
-        <li>1 Beginning p. 17-31</li>
-        </ul>
-    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon (available in the NYU bookstore), write a reading response on your process website, and be prepared to discuss</li>
-        <ul>
-        <li>2. Think Process, Not Product, p. 30-43</li>
-        <li>3. Share Something Small Every Day, p. 44-69</li>
-        </ul>
+    <li><strong>Post your process website URL</strong> on slack in our shared channel.</li>
+    
     <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
@@ -89,6 +77,10 @@
     <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
     <li>Confirm Groups A and B Meeting Times and Project Critique Schedule</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+      </ul>
+      <strong>Class</strong>
+      <ul>
+      
       </ul></td> 
 </tr>
 <tr>
