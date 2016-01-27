@@ -72,11 +72,10 @@
     <td>Wed, Feb 10</td>
     <td><strong>Homework</strong>
     <ul>
-    
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
-    
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
-      </ul>
+     </ul>
+      
       <strong>Class</strong>
       <ul>
       <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
@@ -90,7 +89,8 @@
     <td>Wed, Feb 17</td>
     <td><strong>Homework</strong>
     <ul>
-    
+    <li>(If applicable) <strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft DUE</a></strong></li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     
     </ul>
     <strong>Class</strong>
@@ -151,7 +151,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: Senior Project – Alpha Version Due</strong> (Half of Class)</li>
+    <li><strong>Class Critique: Senior Project – Alpha Demo Due</strong> (All Students)</li>
     </ul></td> 
 </tr>
 <tr>
@@ -163,7 +163,7 @@
     <strong>Class</strong>
     <ul>
     <li>Schedule Midterm Review Individual Meetings.</li>
-    <li><strong>Class Critique: Senior Project – Alpha Version Due</strong> (Other Half of Class)</li>
+    <li><strong>Class Critique: 7 Minute Project Presentation Drafts from all students</strong></li>
     </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@
      
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: 7 Minute Project Presentation Drafts from all students</strong></li>
+    
     </ul></td>
 </tr>
 <tr>
