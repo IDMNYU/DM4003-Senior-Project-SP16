@@ -61,7 +61,6 @@
     <li>Discuss Ted Talk</li>
     <li>Discuss Exhibitions, Galleries, and Other Events</li>
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
-
     </ul>
     </td> 
 </tr>
