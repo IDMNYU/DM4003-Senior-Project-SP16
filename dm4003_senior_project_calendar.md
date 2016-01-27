@@ -72,44 +72,52 @@
     <td>Wed, Feb 10</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
-     </ul>
-      
-      <strong>Class</strong>
-      <ul>
-      <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
-     
-    
-    
-    
-      </ul></td> 
+    <li>Secondary Research</li>
+<ul>
+<li>Find one precedent of creative work within your area of interest. This can be any kind of media – installations, books, films, branding strategies, apps, etc.</li>
+<li>Find one reading related to your area of interest – this can be an article or a book, online or printed.</li>
+<li>Write a response to both of 200 words minimum each (explaining why you think this work is relevant and how it might influence your own research and work) and post on your project website.</li>
+</ul>
+<li>Primary Research</li>
+<ul>
+<li>Think about stakeholders within your areas of interest. Identify a group that you would like to reach out to and start to think about which information you need and a strategy to get this. This could be personal interviews, a google form or any other channel that brings you in touch with people who have meaningful information about the topic. Nothing to bring to class yet but kick-off that thought.</li>
+</ul>
+
+<li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+</ul>
+<strong>Class</strong>
+<ul>
+<li>Present and Discuss Primary and Secondary Research</li>
+</ul></td> 
 </tr>
 <tr>
     <td>Wed, Feb 17</td>
     <td><strong>Homework</strong>
     <ul>
-    <li>(If applicable) <strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft DUE</a></strong></li>
+    <li>Find two more readings and two more precedents of creative work relevant to your senior project. Post links and short descriptions of how and why it relates to your project on your project website. </li>
+    <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
+    
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     
     </ul>
     <strong>Class</strong>
     <ul>
-     <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
-    
-    <li>Individual Meetings (Half of Class)</li>
+      <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
+     
     </ul></td> 
 </tr>
 <tr>
     <td>Wed, Feb 24</td>
     <td><strong>Homework</strong>
     <ul>
+    <li>(If applicable) <strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft DUE</a></strong></li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
     <ul>
+    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
     
-    <li>Individual Meetings (Other Half of Class)</li>
+    <li>Individual Meetings (Rest of Class)</li>
     </ul></td> 
 </tr>
 <tr>
@@ -224,9 +232,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-   <li>Class Critique (Half of Class)
-    <ul>
-    <li>20 Minute Project Presentations w/ Beta Version Demo Due</li>
+   <li>Class Critique (Half of Class): 20 Minute Project Presentations w/ Beta Version Demo Due</li>
     </ul>
     </td>
 </tr>
@@ -239,9 +245,7 @@
     <strong>Class</strong>
     <ul>
     <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a></li>
-    <li>Class Critique (Other Half of Class)
-    <ul>
-    <li>20 Minute Project Presentations w/ Beta Version Demo Due</li>
+    <li>Class Critique (Other Half of Class): 20 Minute Project Presentations w/ Beta Version Demo Due</li>
     </ul></li>
     </ul></td>
 </tr>
