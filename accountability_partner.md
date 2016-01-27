@@ -4,11 +4,11 @@
 ---
 ## Accountability Partners
 
-*  and 
-*  and 
-*  and 
-*  and 
-*  and 
+*  Arif and Nancy 
+*  Guy, Hornby, and Katalina
+*  Matei and Casey
+*  Stanford and Lajune
+*  Matt and Dylan
 
 
 
