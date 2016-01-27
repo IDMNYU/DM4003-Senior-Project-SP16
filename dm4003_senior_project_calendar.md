@@ -49,13 +49,18 @@
     <td><strong>Homework</strong>
     <ul>
     <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
-    <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated process website</a></strong></li>
+    <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
+    <li><strong>Post your pro website URL</strong> on slack in our shared channel.</li>
+    <li><strong>Select a TED Talk</strong> you find relevant for your research and write a response to it. Post your response and the URL of the talk to your project website. How is it relevant to your project or which ideas of it would you like to further investigate.</li>
+    <li><strong>Select any exhibition, gallery or other event</strong> that takes you out of your home. Take pictures, write a response, and post both to your project website.</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
+    <li>Discuss Ted Talk</li>
+    <li>Discuss Exhibitions, Galleries, and Other Events</li>
+    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
 
     </ul>
     </td> 
@@ -68,16 +73,17 @@
     <td>Wed, Feb 10</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><strong>Post your process website URL</strong> on slack in our shared channel.</li>
+    
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
     
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
       </ul>
       <strong>Class</strong>
       <ul>
-      <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
+      <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
+     
     
-    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
+    
     
       </ul></td> 
 </tr>
@@ -85,11 +91,13 @@
     <td>Wed, Feb 17</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    
+    
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.</li>
+     <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
+    
     <li>Individual Meetings (Half of Class)</li>
     </ul></td> 
 </tr>
@@ -101,7 +109,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.</li>
+    
     <li>Individual Meetings (Other Half of Class)</li>
     </ul></td> 
 </tr>
@@ -113,6 +121,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
+    <li>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.</li>
     <li>Individual Meetings (Half of Class)</li>
     </ul></td> 
 </tr>
@@ -124,6 +133,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
+    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.</li>
     <li>Individual Meetings (Other Half of Class)</li>
     </ul></td> 
 </tr>
