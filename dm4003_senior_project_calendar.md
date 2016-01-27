@@ -151,7 +151,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: Senior Project – Alpha Demo Due</strong> (All Students)</li>
+    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo</a> Due</strong> (All Students)</li>
     </ul></td> 
 </tr>
 <tr>
