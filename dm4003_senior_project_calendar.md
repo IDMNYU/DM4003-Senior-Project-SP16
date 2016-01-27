@@ -56,7 +56,7 @@
     <strong>Class</strong>
     <ul>
     <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
-    <li>Create Groups A and B and Individual Meeting Order Within Those Groups</li>
+
     </ul>
     </td> 
 </tr>
@@ -78,7 +78,7 @@
       <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
     
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
-    <li>Confirm Groups A and B Meeting Times and Project Critique Schedule</li>
+    
       </ul></td> 
 </tr>
 <tr>
@@ -90,7 +90,7 @@
     <strong>Class</strong>
     <ul>
     <li>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.</li>
-    <strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong>
+    <li>Individual Meetings (Half of Class)</li>
     </ul></td> 
 </tr>
 <tr>
@@ -102,7 +102,7 @@
     <strong>Class</strong>
     <ul>
     <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.</li>
-    <li><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></li>
+    <li>Individual Meetings (Other Half of Class)</li>
     </ul></td> 
 </tr>
 <tr>
@@ -113,7 +113,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></li>
+    <li>Individual Meetings (Half of Class)</li>
     </ul></td> 
 </tr>
 <tr>
@@ -124,7 +124,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></li>
+    <li>Individual Meetings (Other Half of Class)</li>
     </ul></td> 
 </tr>
 
@@ -142,8 +142,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>
-   
+    <li><strong>Class Critique: Senior Project – Alpha Version Due</strong> (Half of Class)</li>
     </ul></td> 
 </tr>
 <tr>
@@ -155,7 +154,7 @@
     <strong>Class</strong>
     <ul>
     <li>Schedule Midterm Review Individual Meetings.</li>
-    <li><strong>Class Critique: Senior Project – Alpha Version Due continued</strong></li>
+    <li><strong>Class Critique: Senior Project – Alpha Version Due</strong> (Other Half of Class)</li>
     </td>
 </tr>
 <tr>
@@ -175,14 +174,14 @@
      <td><strong>Homework</strong>
     <ul>
     
-    <li><strong>10 Minute Project Presentation</strong> Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
+    <li><strong>7 Minute Project Presentation</strong> (All Students) Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     
      
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: 10 Minute Project Presentation Drafts from all students</strong></li>
+    <li><strong>Class Critique: 7 Minute Project Presentation Drafts from all students</strong></li>
     </ul></td>
 </tr>
 <tr>
@@ -216,8 +215,10 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>
-    <strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br>
+   <li>Class Critique (Half of Class)
+    <ul>
+    <li>20 Minute Project Presentations w/ Beta Version Demo Due</li>
+    </ul>
     </td>
 </tr>
 <tr>
@@ -229,9 +230,9 @@
     <strong>Class</strong>
     <ul>
     <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a></li>
-    <li>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> 
+    <li>Class Critique (Other Half of Class)
     <ul>
-    <li>10 Minute Project Presentations w/ Beta Version Demo Due</li>
+    <li>20 Minute Project Presentations w/ Beta Version Demo Due</li>
     </ul></li>
     </ul></td>
 </tr>
@@ -254,7 +255,7 @@
     <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
-    <td>Wed, May 11<br>2-6pm EST</td>
+    <td>Wed, May 11<br>Time TBD</td>
     <td><strong>Homework</strong>
     <ul>
     <li>Prepare for <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></li>
@@ -262,7 +263,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)</li>
+    <li><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET Rm TBD (Attendance is MANDATORY for the entire 4 hours!)</li>
     </ul></td>
 </tr>
 <tr>
