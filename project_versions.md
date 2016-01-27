@@ -1,4 +1,7 @@
-# Senior Project Versions
+### DM-UY 4003 Senior Project in Digital Media
+##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
+
+# Project Versions
 
 Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters and expectations of each version will be individually determined in consultation with the professor.
 
