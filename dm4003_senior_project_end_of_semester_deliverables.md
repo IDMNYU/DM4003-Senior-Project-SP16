@@ -120,7 +120,7 @@ Write a letter to the next class giving them advice on how to reach their learni
 ## PORTFOLIO WEBSITE
 *NOTE: This is different than your <a href="dm4003_senior_project_blog.md">Senior Project Website</a>.*
 
-* Post to slack
+* Post URL to Senior Project Slack Channel
 
 This website should market and promote your body of work for possible employment or other post graduation opportunities. This should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
 
