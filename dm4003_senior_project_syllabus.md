@@ -125,8 +125,6 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Schedule your time (keep a calendar of some sort) 
 * Come to the weekly project critique on Wednesdays and your individual meetings on time. 
 * Participate in project critiques and discussions. Be vocal.
-* Present your work during project critiques at least twice during the course of the semester. 
-* Meet, individually, with the professor on a weekly basis during your scheduled time to discuss your project progress.
 * Consult slack at least once a week for up to date info
 * Maintain a weekly, dedicated, project website
 * **Back up your work constantly** 
