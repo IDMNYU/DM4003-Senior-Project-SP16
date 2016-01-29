@@ -83,6 +83,7 @@
 <li>Primary Research</li>
 <ul>
 <li>Think about stakeholders within your areas of interest. Identify a group that you would like to reach out to and start to think about which information you need and a strategy to get this. This could be personal interviews, a google form or any other channel that brings you in touch with people who have meaningful information about the topic. Nothing to bring to class yet but kick-off that thought.</li>
+</ul>
 <li>Audio (Optional) / Visual (Required) Storytelling Exercise<br><br>
 Select 20 images that create a visual story about your project idea (no text). Compile into a pdf (one image per screen) and be prepared to talk briefly about each image you select (for approximately 20 sec each). 
 
