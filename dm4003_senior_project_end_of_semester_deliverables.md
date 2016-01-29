@@ -84,7 +84,7 @@ Video and/or Audio documentation (varies by student)
 
 ## FINAL SELF-ASSESSMENT
 
-* Please name your file as yourname_midterm_assessment.pdf
+* Please name your file as yourname_final_assessment.pdf
 * Email your final self assessment *as a pdf* to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
 
 **Of Project**
