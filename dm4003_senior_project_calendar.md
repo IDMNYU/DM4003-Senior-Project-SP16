@@ -82,7 +82,7 @@ There are two options:
 <ol>
 <li>If you already have a project idea, this audio (optional), visual (required) presentation should cover all perspectives, concepts and ideas you can think about. Don’t limit yourself but broaden up.
 <li>If you do not have a specific project, select 20 things that you consider relevant for living in 2015 or 20 things that you are interested in.</li>
-</ol>
+</ol></li>
     <li>Secondary Research</li>
 <ul>
 <li>Find one precedent of creative work within your area of interest. This can be any kind of media – installations, books, films, branding strategies, apps, etc.</li>
