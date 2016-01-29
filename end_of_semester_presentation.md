@@ -1,4 +1,9 @@
-# END OF SEMESTER PUBLIC PRESENTATIONS
+### DM-UY 4003 Senior Project in Digital Media
+##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
+
+---
+
+## END OF SEMESTER PUBLIC PRESENTATIONS
 
 Date and Time TBD,
 MAGNET 811 (Attendance is MANDATORY for the entire # hours!)
