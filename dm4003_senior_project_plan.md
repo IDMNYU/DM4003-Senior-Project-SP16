@@ -4,7 +4,7 @@
 ---
 # Project Plan
 
-<strong>Please remember you can do senior team projects.</strong>
+<strong>Please remember you and a classmate can work as a team..</strong>
 * Please direct message to deangela **as a PDF** on slack.
 * Please name your file as firstnamelastname_projectplan#_date.pdf (i.e. deangeladuff_projectplan1_2016jan15.pdf)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
