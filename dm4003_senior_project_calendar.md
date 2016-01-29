@@ -73,16 +73,7 @@
     <td>Wed, Feb 10</td>
     <td><strong>Homework</strong>
     <ul>
-    <li>Audio (Optional) / Visual (Required) Storytelling Exercise<br><br>
-Select 20 images that create a visual story about your project idea (no text). Compile into a pdf (one image per screen) and be prepared to talk briefly about each image you select (for approximately 20 sec each). 
-
-Post the PDF to your project website. 
-<br><br>
-There are two options:
-<ol>
-<li>If you already have a project idea, this audio (optional), visual (required) presentation should cover all perspectives, concepts and ideas you can think about. Don’t limit yourself but broaden up.
-<li>If you do not have a specific project, select 20 things that you consider relevant for living in 2015 or 20 things that you are interested in.</li>
-</ol></li>
+    
     <li>Secondary Research</li>
 <ul>
 <li>Find one precedent of creative work within your area of interest. This can be any kind of media – installations, books, films, branding strategies, apps, etc.</li>
@@ -92,6 +83,16 @@ There are two options:
 <li>Primary Research</li>
 <ul>
 <li>Think about stakeholders within your areas of interest. Identify a group that you would like to reach out to and start to think about which information you need and a strategy to get this. This could be personal interviews, a google form or any other channel that brings you in touch with people who have meaningful information about the topic. Nothing to bring to class yet but kick-off that thought.</li>
+<li>Audio (Optional) / Visual (Required) Storytelling Exercise<br><br>
+Select 20 images that create a visual story about your project idea (no text). Compile into a pdf (one image per screen) and be prepared to talk briefly about each image you select (for approximately 20 sec each). 
+
+Post the PDF to your project website. 
+<br><br>
+There are two options:
+<ol>
+<li>If you already have a project idea, this audio (optional), visual (required) presentation should cover all perspectives, concepts and ideas you can think about. Don’t limit yourself but broaden up.
+<li>If you do not have a specific project, select 20 things that you consider relevant for living in 2015 or 20 things that you are interested in.</li>
+</ol></li>
 </ul>
 
 <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
