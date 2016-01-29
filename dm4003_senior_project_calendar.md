@@ -100,7 +100,7 @@ There are two options:
 </ul>
 <strong>Class</strong>
 <ul>
-<li>Present Visual Stories</li>
+<li>Present your idea through visual storytelling</li>
 <li>Present and Discuss Primary and Secondary Research</li>
 </ul></td> 
 </tr>
