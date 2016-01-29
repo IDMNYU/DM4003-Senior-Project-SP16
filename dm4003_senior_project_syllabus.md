@@ -233,7 +233,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Browser: Chrome or Firefox
 * HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
-* [Web Server Space] (dm4003_senior_project_website.md)
+* [Web Server Space](dm4003_senior_project_website.md)
 
 
 ### REQUIRED TOOLS
