@@ -94,7 +94,7 @@ This class will consist of
 * **Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 Individual meetings are not optional. They are important and useful. Sometimes
 they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
-* **Class critiques**<br>Class critiques will be held for 2 to 3 seniors every Wednesday, and will consist of the professor, ALL seniors, and, at times, outside critics. 
+* **Class critiques**<br>
 
      Each presentation will consist of 
      * 10 minutes of presentation and 
