@@ -85,7 +85,7 @@ Video and/or Audio documentation (varies by student)
 ## FINAL SELF-ASSESSMENT
 
 * Please name your file as yourname_final_assessment.pdf
-* Email your final self assessment *as a pdf* to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
+* Direct Message as pdf to deangela on Slack.
 
 **Of Project**
 * Critically analyze/evaluate your senior project process and progress
