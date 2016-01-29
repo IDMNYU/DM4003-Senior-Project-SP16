@@ -163,15 +163,13 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ##### Quantitative Grading Overview
 
 * 21% Senior Project – Gold Version 
-* 20% [Deliverables for Senior Project Catalog / Supporting Files](dm4003_senior_project_end_of_semester_deliverables.md)
+* 30% [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
 * 14% Weekly Progress: Project Milestones (aka what have you done this week?) on  [process website](dm4003_senior_project_website.md) and calendar 
 * 10% Project Critique Presentations
 * 10% [Portfolio Website](dm4003_senior_project_end_of_semester_deliverables.md), Resume, Cover Letter, and LinkedIn Profile
 * 05% [End of Semester Public Presentation](dm4003_senior_project_end_of_semester_deliverables.md)
 * 05% Outside Critique
 * 05% Midterm Self Assessment Rubric
-* 05% [End of Semester Assessment](dm4003_senior_project_end_of_semester_deliverables.md)
-* 05% [Letter to Next Cohort](dm4003_senior_project_end_of_semester_deliverables.md)
 
 Extra Credit: 
 * Presenting in the IDM Meet and Greet
