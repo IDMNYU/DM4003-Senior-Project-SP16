@@ -17,7 +17,7 @@ Card sorting is about creating associations between information. Please complete
 
 **Step 1: PROJECT CARDS**
 
-Identify fifteen existing digital media projects/apps/events/games/installations/etc. that are of interest to you and which relate to the thesis topics that you have been throwing around. Create project cards with the project names. For example if were inspired by the Rain Room installation at the MoMA you would write “Rain Room” on a project card. All the project cards should be the same color.
+Identify five existing digital media projects/apps/events/games/installations/etc. that are of interest to you and which relate to the thesis topics that you have been throwing around. Create project cards with the project names. For example if were inspired by the Rain Room installation at the MoMA you would write “Rain Room” on a project card. All the project cards should be the same color.
 
 **Step 2: DESCRIPTOR CARDS**
 
