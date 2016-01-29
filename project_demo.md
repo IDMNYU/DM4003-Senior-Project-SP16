@@ -11,7 +11,7 @@ Project Demos or Project Presentations will be held on designated Wednesdays, an
      (or a combination thereof)
      for 20 minutes total. 
 
-You are always welcome to invite an outside critic to your project demo. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
+You are always welcome to invite an outside critic to your project demo or project presentation. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
 
 Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. 
 * Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. 
