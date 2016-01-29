@@ -24,7 +24,7 @@ Rules of the Critique:
 * Give Feedback to your classmates.
 * Do NOT take feedback personally.
 
-### General Guidelines for your Project Demo
+# Additional Guidelines for your Project Demo
 * You will demo the project at its current state.
 * The focus is on the actual artifact you are creating and nothing else.
 * Do NOT create a supporting presentation.
