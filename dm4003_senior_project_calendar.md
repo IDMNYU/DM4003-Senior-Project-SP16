@@ -17,7 +17,7 @@
     <td>
     <ul>
     <li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to slack as a message with your name as a category)</li>
+    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to slack as a post.)</li>
     <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
     </ul></td>    
 </tr>
