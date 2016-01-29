@@ -5,7 +5,7 @@
 
 ## End Of Semester Public Presentations
 
-Date and Time TBD,
+May 11th, Time TBD,
 MAGNET 811 (Attendance is MANDATORY for the entire # hours!)
 
 Use the project plan guidelines as a guide for content. Your public presentation should showcase your completed senior project–gold version.
