@@ -197,7 +197,7 @@ The performance & attendance of the student has not met course requirements. The
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
-Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc. **When your classmates are presenting, please close your laptops and turn off your cell phones.**
+Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc. **When your classmates are presenting, please close your laptops and turn off your cell phones.**
 
 
 ### ACADEMIC HONESTY
