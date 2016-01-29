@@ -173,7 +173,9 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 05% [End of Semester Assessment](dm4003_senior_project_end_of_semester_deliverables.md)
 * 05% [Letter to Next Cohort](dm4003_senior_project_end_of_semester_deliverables.md)
 
-Extra Credit: Career Counseling Appt. through NYU's Waserman Center
+Extra Credit: 
+* Presenting in the IDM Meet and Greet
+* Career Counseling Appt. through NYU's Waserman Center
 
 ##### Qualitative Grading Overview
 
