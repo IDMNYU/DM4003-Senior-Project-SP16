@@ -51,7 +51,7 @@
     <li>(OPTIONAL) <strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (direct message to deangela.)</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
-    <li><strong>Post your pro website URL</strong> on slack in our shared channel.</li>
+    <li><strong>Post your project website URL</strong> on slack in our shared channel.</li>
     <li><strong>Select a TED Talk</strong> you find relevant for your research and write a response to it. Post your response and the URL of the talk to your project website. How is it relevant to your project or which ideas of it would you like to further investigate.</li>
     <li><strong>Select any exhibition, gallery or other event</strong> that takes you out of your home. Take pictures, write a response, and post both to your project website.</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
