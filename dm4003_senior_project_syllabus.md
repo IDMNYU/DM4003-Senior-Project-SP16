@@ -162,8 +162,8 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 21% Senior Project – Gold Version 
 * 30% [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
+* 21% Senior Project – Gold Version 
 * 14% Weekly Progress: Project Milestones (aka what have you done this week?) on  [process website](dm4003_senior_project_website.md) and calendar 
 * 10% Project Critique Presentations
 * 10% [Portfolio Website](dm4003_senior_project_end_of_semester_deliverables.md), Resume, Cover Letter, and LinkedIn Profile
