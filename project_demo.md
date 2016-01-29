@@ -1,9 +1,9 @@
 ### DM-UY 4003 Senior Project in Digital Media
 ##### Spring 2016 • De Angela L. Duff • Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 
 
-# Project Demo
+# Project Demo / Presentation
 
-Demos will be held on designated Wednesdays, and will consist of the professor, ALL students, and outside critics, at times. 
+Project Demos or Project Presentations will be held on designated Wednesdays, and will consist of the professor, ALL students, and outside critics, at times. 
 
      Each demo will consist of 
      * 10 minutes of demo and 
