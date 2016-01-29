@@ -17,7 +17,7 @@
     <td>
     <ul>
     <li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to slack as a post.)</li>
+    
     <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
     </ul></td>    
 </tr>
@@ -48,7 +48,8 @@
     <td>Wed, Feb 03</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
+    <li>(OPTIONAL) <strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
+    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (direct message to deangela.)</li>
     <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated project website</a></strong></li>
     <li><strong>Post your pro website URL</strong> on slack in our shared channel.</li>
     <li><strong>Select a TED Talk</strong> you find relevant for your research and write a response to it. Post your response and the URL of the talk to your project website. How is it relevant to your project or which ideas of it would you like to further investigate.</li>
