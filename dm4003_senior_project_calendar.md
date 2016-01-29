@@ -276,7 +276,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET Rm TBD (Attendance is MANDATORY for the entire 4 hours!)</li>
+    <li><strong><a href="end_of_semester_presentation.md">End of Semester Public Presentations</a></strong> MAGNET Rm TBD (Attendance is MANDATORY for the entire 4 hours!)</li>
     </ul></td>
 </tr>
 <tr>
