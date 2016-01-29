@@ -31,7 +31,7 @@
     <ul>
     <li>What is your project about?</li>
     <li>What are your project's conceptual underpinnings?</li>
-    <li>What is your project’s theme(s)?</li>
+    <li>What is your project’s theme(s)? (Think hashtags.)</li>
     </ul>
 </td>
 </tr>
