@@ -3,7 +3,7 @@
 
 ---
 
-## END OF SEMESTER PUBLIC PRESENTATIONS
+## End Of Semester Public Presentations
 
 Date and Time TBD,
 MAGNET 811 (Attendance is MANDATORY for the entire # hours!)
