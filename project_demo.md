@@ -29,7 +29,7 @@ Rules of the Critique:
 * The focus is on the actual artifact you are creating and nothing else.
 * Do NOT create a supporting presentation.
 
-###Be prepared to discuss the following
+###Be prepared to discuss the following for your Project Demo
 From Stephanie Houde and Charles Hill's *What do Prototypes prototype?*, prototypes provide a means to 
 examine design problems.
 * Select the focus of a prototype to answer design questions: 
