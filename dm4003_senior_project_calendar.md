@@ -80,7 +80,7 @@
 <li>Find one reading related to your area of interest – this can be an article or a book, online or printed.</li>
 <li>Write a response to both of 200 words minimum each (explaining why you think this work is relevant and how it might influence your own research and work) and post on your project website.</li>
 </ul>
-<li>Primary Research</li>
+<li>Primary Research (direct message deangela your ideas)</li>
 <ul>
 <li>Think about stakeholders within your areas of interest. Identify a group that you would like to reach out to and start to think about which information you need and a strategy to get this. This could be personal interviews, a google form or any other channel that brings you in touch with people who have meaningful information about the topic. Nothing to bring to class yet but kick-off that thought.</li>
 </ul>
