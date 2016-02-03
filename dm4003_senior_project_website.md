@@ -4,7 +4,7 @@
 ---
 #Project Website
 
-*Post URL weekly in the main MS Thesis Slack Channel.*
+*Post URL weekly in the main Senior Project Slack Channel.*
 
 You should have a **dedicated**, senior project website to document your **daily** and/or **weekly** progress/process of your senior project. Students are expected to share their progress with others using their process website.
 * Ideally under your own domain name with a folder named after your project. See Spencer's link below under Example Process Websites. 
