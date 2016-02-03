@@ -22,7 +22,7 @@
     </ul></td>    
 </tr>
 <tr>
-    <td>Wed, Jan 27</td>
+    <td>Wk 1 Wed, Jan 27</td>
     <td>
         <ul>
         
@@ -45,7 +45,7 @@
 </td>  
 </tr>
 <tr>
-    <td>Wed, Feb 03</td>
+    <td>Wk 2 Wed, Feb 03</td>
     <td><strong>Homework</strong>
     <ul>
     <li>(OPTIONAL) <strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
@@ -70,7 +70,7 @@
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees and not receive a grade of 'W')</td> 
 </tr>
 <tr>
-    <td>Wed, Feb 10</td>
+    <td>Wk 3 Wed, Feb 10</td>
     <td><strong>Homework</strong>
     <ul>
     
@@ -105,7 +105,7 @@ There are two options:
 </ul></td> 
 </tr>
 <tr>
-    <td>Wed, Feb 17</td>
+    <td>Wk 4 Wed, Feb 17</td>
     <td><strong>Homework</strong>
     <ul>
     <li>Find two more readings and two more precedents of creative work relevant to your senior project. Post links and short descriptions of how and why it relates to your project on your project website. </li>
@@ -121,7 +121,7 @@ There are two options:
     </ul></td> 
 </tr>
 <tr>
-    <td>Wed, Feb 24</td>
+    <td>Wk 5 Wed, Feb 24</td>
     <td><strong>Homework</strong>
     <ul>
     <li>(If applicable) <strong><a href="dm4003_senior_project_plan.md">Project Plan 2nd Draft DUE</a></strong></li>
@@ -135,7 +135,7 @@ There are two options:
     </ul></td> 
 </tr>
 <tr>
-    <td>Wed, Mar 02</td>
+    <td>Wk 6 / Wed, Mar 02</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -147,7 +147,7 @@ There are two options:
     </ul></td> 
 </tr>
 <tr>
-    <td>Wed, Mar 09</td>
+    <td>Wk 7 / Wed, Mar 09</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -165,7 +165,7 @@ There are two options:
 </tr>
 
 <tr>
-    <td>Wed, Mar 23</td>
+    <td>Wk 8 / Wed, Mar 23</td>
     <td><strong>Homework</strong>
     <ul>
     <li><strong>Midterm Self Assessment Rubric Due</strong> (Direct message as pdf to deangela on slack)</li>
@@ -177,7 +177,7 @@ There are two options:
     </ul></td> 
 </tr>
 <tr>
-    <td>Wed, Mar 30</td>
+    <td>Wk 9 / Wed, Mar 30</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -189,7 +189,7 @@ There are two options:
     </td>
 </tr>
 <tr>
-    <td>Thu, Mar 31 or Fri, Apr 1</td>
+    <td>Wk 10 / Thu, Mar 31 or Fri, Apr 1</td>
     <td><strong>Midterm Review</strong> 
     <ul>
     <li>Individual meetings to be scheduled.</li>
@@ -201,7 +201,7 @@ There are two options:
 </tr>
 
 <tr>
-    <td>Wed, Apr 6</td>
+    <td>Wk 11 Wed, Apr 6</td>
      <td><strong>Homework</strong>
     <ul>
     
@@ -216,7 +216,7 @@ There are two options:
     </ul></td>
 </tr>
 <tr>
-    <td>Wed, Apr 13</td>
+    <td>Wk 12 Wed, Apr 13</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -239,7 +239,7 @@ There are two options:
     </ul></ul></td> 
 </tr>
 <tr>
-    <td>Wed, Apr 20</td>
+    <td>Wk 13 Wed, Apr 20</td>
      <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -251,7 +251,7 @@ There are two options:
     </td>
 </tr>
 <tr>
-    <td>Wed, Apr 27</td>
+    <td>Wk 14 Wed, Apr 27</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -265,7 +265,7 @@ There are two options:
 </tr>
 
 <tr>
-    <td>Wed, May 04</td>
+    <td>Wk 15 Wed, May 04</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -282,7 +282,7 @@ There are two options:
     <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
-    <td>Wed, May 11<br>Time TBD</td>
+    <td>Wk 16 Wed, May 11<br>Time TBD</td>
     <td><strong>Homework</strong>
     <ul>
     <li>Prepare for <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></li>
