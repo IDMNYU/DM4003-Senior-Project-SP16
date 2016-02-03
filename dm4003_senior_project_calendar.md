@@ -135,7 +135,7 @@ There are two options:
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 6 / Wed, Mar 02</td>
+    <td>Wk 6 Wed, Mar 02</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -147,7 +147,7 @@ There are two options:
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 7 / Wed, Mar 09</td>
+    <td>Wk 7 Wed, Mar 09</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -165,7 +165,7 @@ There are two options:
 </tr>
 
 <tr>
-    <td>Wk 8 / Wed, Mar 23</td>
+    <td>Wk 8 Wed, Mar 23</td>
     <td><strong>Homework</strong>
     <ul>
     <li><strong>Midterm Self Assessment Rubric Due</strong> (Direct message as pdf to deangela on slack)</li>
@@ -177,7 +177,7 @@ There are two options:
     </ul></td> 
 </tr>
 <tr>
-    <td>Wk 9 / Wed, Mar 30</td>
+    <td>Wk 9 Wed, Mar 30</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -189,7 +189,7 @@ There are two options:
     </td>
 </tr>
 <tr>
-    <td>Wk 10 / Thu, Mar 31 or Fri, Apr 1</td>
+    <td>Wk 10 Thu, Mar 31 or Fri, Apr 1</td>
     <td><strong>Midterm Review</strong> 
     <ul>
     <li>Individual meetings to be scheduled.</li>
