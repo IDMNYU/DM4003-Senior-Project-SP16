@@ -130,7 +130,7 @@ There are two options:
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (for the rest of the class who didn't present last class period OR IF your project has changed) in lieu of your individual meeting</li>
+    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class</strong> (for the rest of the class who didn't present last class period OR IF your project has changed)</li>
     </ul></td> 
 </tr>
 <tr>
