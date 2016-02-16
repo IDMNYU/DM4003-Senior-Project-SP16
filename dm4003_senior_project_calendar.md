@@ -73,14 +73,13 @@
     <td>Wk 3 Wed, Feb 10</td>
     <td><strong>Homework</strong>
     <ul>
-    
-    
-<li><a href="storytelling_exercise.md">Audio (Optional) / Visual (Required) Storytelling Exercise</a></li>
-<li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
-</ul>
+    <li>Research Assignment</li> 
+    <li><a href="storytelling_exercise.md">Storytelling Exercise</a></li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
 <strong>Class</strong>
 <ul>
-<li>Present your idea through visual storytelling</li>
+<li>Present your <a href="storytelling_exercise.md">Storytelling Exercise</a></li>
 
 </ul></td> 
 </tr>
@@ -96,7 +95,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-      <li><strong>Present your idea through visual storytelling</strong> (for the rest of the class who didn't present last class period)</li>
+      <li><strong>Present your <a href="storytelling_exercise.md">Storytelling Exercise</a></strong> (for the rest of the class who didn't present last class period)</li>
       <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong></li>
       <ul>
       <li>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
