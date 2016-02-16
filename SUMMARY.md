@@ -13,4 +13,5 @@
 * [End of Semester Public Presentation](end_of_semester_presentation.md)
 * [End of Semester Deliverables](dm4003_senior_project_end_of_semester_deliverables.md)
 * [Recommended Resources](recommended_resources.md)
+* Storytelling Exercise
 
