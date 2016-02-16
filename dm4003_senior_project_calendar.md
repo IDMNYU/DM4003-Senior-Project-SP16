@@ -73,7 +73,7 @@
     <td>Wk 3 Wed, Feb 10</td>
     <td><strong>Homework</strong>
     <ul>
-    <li>Research Assignment</li> 
+    <li><a href="research_assignment.md">Research Assignment</a></li> 
     <li><a href="storytelling_exercise.md">Storytelling Exercise</a></li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
