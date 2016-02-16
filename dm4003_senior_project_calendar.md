@@ -99,7 +99,7 @@
       <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong></li>
       <ul>
       <li>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
-      <li>Incorporate Primary and Secondary Research</li><
+      <li>Incorporate Primary and Secondary <a href="research_assignment.md">Research</a></li>
      </ul>
     </ul></td> 
 </tr>
