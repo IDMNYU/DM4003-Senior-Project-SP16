@@ -166,6 +166,7 @@
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li><strong>7 Minute Project Presentation</strong> (All Students) Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
     </ul>
     <strong>Class</strong>
     <ul>
@@ -190,14 +191,14 @@
      <td><strong>Homework</strong>
     <ul>
     
-    <li><strong>7 Minute Project Presentation</strong> (All Students) Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
+    
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     
      
     <strong>Class</strong>
     <ul>
-    
+    <li>TBD</li>
     </ul></td>
 </tr>
 <tr>
