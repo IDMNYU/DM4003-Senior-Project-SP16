@@ -116,7 +116,7 @@ There are two options:
     </ul>
     <strong>Class</strong>
     <ul>
-      <li>Present your idea through visual storytelling (rest of the class who didn't present last class period)</li>
+      <li><strong>Present your idea through visual storytelling</strong> (for the rest of the class who didn't present last class period)</li>
       <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
      
     </ul></td> 
@@ -130,9 +130,7 @@ There are two options:
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
-    
-    <li>Individual Meetings (Rest of Class)</li>
+    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (for the rest of the class who didn't present last class period OR IF your project has changed) in lieu of your individual meeting</li>
     </ul></td> 
 </tr>
 <tr>
