@@ -95,6 +95,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
+    <Li>Discuss Calendar and specifically, <strong>All dates and assignments are subject to change at the discretion of the professor</strong></li>
       <li><strong>Present your <a href="storytelling_exercise.md">Storytelling Exercise</a></strong> (for the rest of the class who didn't present last class period)</li>
       <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong></li>
       <ul>
