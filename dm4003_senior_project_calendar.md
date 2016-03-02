@@ -137,6 +137,7 @@
     <td><strong>Homework</strong>
     <ul>
     <li>Share your portfolio URL and/or linkedin presence in the seniors_sp16 slack channel</li>
+    <li>If you are not on linkedin you should create an account an link with everyone in the class and the IDM community.</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
