@@ -19,11 +19,7 @@
 
 * [NYU's Wasserman Center for Career Development](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search.html)
 
-  * [NYU's Wasserman Center's Resume &amp; Cover Letters](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/resumes-and-cover-letters.html)
-
-    * [NYU's Wasserman Center's Resume Samples](http://www.nyu.edu/content/dam/nyu/wasserman/documents/Resume%20samples.pdf)
   
-    * [NYU's Wasserman Center's Cover Letter Sample](http://www.nyu.edu/content/dam/nyu/wasserman/documents/cover%20letter%20sample.pdf)
 
   * [NYU's Wasserman Center's Events](https://events.nyu.edu/#view/all/group/wasserman-center)
 
@@ -33,7 +29,9 @@
 ## Recommended Articles
 
 *Resume & Cover Letter*
-
+ * [NYU's Wasserman Center's Resume &amp; Cover Letters](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/resumes-and-cover-letters.html)
+   * [NYU's Wasserman Center's Resume Samples](http://www.nyu.edu/content/dam/nyu/wasserman/documents/Resume%20samples.pdf) 
+   * [NYU's Wasserman Center's Cover Letter Sample](http://www.nyu.edu/content/dam/nyu/wasserman/documents/cover%20letter%20sample.pdf)
  * [Purdue OWL Résumé Workshop](https://owl.english.purdue.edu/owl/resource/719/1/)
  * [Smashing Magazine: How To Create A Great Web Design CV and Résumé](https://www.smashingmagazine.com/2009/04/10-handy-tips-for-web-design-cvs-and-resumes)
  * [37 signals: Forget the resume, kill on the cover letter](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter)
