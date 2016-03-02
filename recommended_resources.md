@@ -3,8 +3,6 @@
 
 ---
 
-
- 
 ## Recommended Websites
 
 *Presentation*
@@ -16,8 +14,6 @@
 * [GlassDoor](http://www.glassdoor.com/index.htm)
 
 * [AIGA's Survey of Design Salary 2014](http://designsalaries.aiga.org)
-
-
 
 * [NYU's CareerNet](https://nyu-csm.symplicity.com/students)
 
@@ -33,6 +29,11 @@
 
   * [NYU's Wasserman Center's Finding a Mentor](http://www.nyu.edu/life/resources-and-services/career-development/prepare-for-the-job-search/finding-a-mentor.html)
   
+
+## Recommended Articles
+ * [Purdue OWL Résumé Workshop](https://owl.english.purdue.edu/owl/resource/719/1/)
+* [Smashing Magazine: How To Create A Great Web Design CV and Résumé](https://www.smashingmagazine.com/2009/04/10-handy-tips-for-web-design-cvs-and-resumes/)
+
 ## Recommended Books
 
 *Career*
@@ -46,6 +47,7 @@
 * [The 4-Hour Workweek, Expanded and Updated](http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss 
 
 *Creativity*
+
 * [Do The Work!](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
 
 * [Show Your Work!](http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
