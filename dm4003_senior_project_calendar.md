@@ -136,6 +136,7 @@
     <td>Wk 7 Wed, Mar 09</td>
     <td><strong>Homework</strong>
     <ul>
+    <li>Share your portfolio URL and/or linkedin presence in the seniors_sp16 slack channel</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
