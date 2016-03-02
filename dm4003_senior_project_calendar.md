@@ -138,7 +138,7 @@
     <ul>
     <li>Share your portfolio URL and/or linkedin presence in the seniors_sp16 slack channel</li>
     <li>If you are not on linkedin you should create an account and link with everyone in the class and as many people in the IDM community as possible.</li>
-    <li>If you do not have a portfolio website, you should create one. I suggest getting your own domain name.</li>
+    <li>If you do not have a portfolio website, you should create one. I suggest getting your own domain name through an ISP. I recommend [siteground.com](http://siteground.com).</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
