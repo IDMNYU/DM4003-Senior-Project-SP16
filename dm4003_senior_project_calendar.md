@@ -140,7 +140,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.</li>
+    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft and/or linkedin presences with classmates for feedback.</li>
     <li>Individual Meetings (Other Half of Class)</li>
     </ul></td> 
 </tr>
