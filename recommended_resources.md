@@ -32,7 +32,7 @@
 
 ## Recommended Articles
  * [Purdue OWL Résumé Workshop](https://owl.english.purdue.edu/owl/resource/719/1/)
-* (Smashing Magazine: How To Create A Great Web Design CV and Résumé)[https://www.smashingmagazine.com/2009/04/10-handy-tips-for-web-design-cvs-and-resumes]
+* Smashing Magazine: How To Create A Great Web Design CV and Résumé)[https://www.smashingmagazine.com/2009/04/10-handy-tips-for-web-design-cvs-and-resumes]
 
 ## Recommended Books
 
