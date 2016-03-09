@@ -157,7 +157,7 @@
     <td>Wk 8 Wed, Mar 23</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><strong>Midterm Self Assessment Rubric Due</strong> (Direct message as pdf to deangela on slack)</li>
+    
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
     <strong>Class</strong>
@@ -169,6 +169,7 @@
     <td>Wk 9 Wed, Mar 30</td>
     <td><strong>Homework</strong>
     <ul>
+    <li><strong>Midterm Self Assessment Rubric Due</strong> (Direct message as pdf to deangela on slack)</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     <li><strong>7 Minute Project Presentation</strong> (All Students) Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
     </ul>
@@ -179,7 +180,7 @@
     </td>
 </tr>
 <tr>
-    <td>Wk 10 Thu, Mar 31 or Fri, Apr 1</td>
+    <td>Thu, Mar 31 or Fri, Apr 1</td>
     <td><strong>Midterm Review</strong> 
     <ul>
     <li>Individual meetings to be scheduled.</li>
@@ -191,7 +192,7 @@
 </tr>
 
 <tr>
-    <td>Wk 11 Wed, Apr 6</td>
+    <td>Wk 10 Wed, Apr 6</td>
      <td><strong>Homework</strong>
     <ul>
     
@@ -206,7 +207,7 @@
     </ul></td>
 </tr>
 <tr>
-    <td>Wk 12 Wed, Apr 13</td>
+    <td>Wk 11 Wed, Apr 13</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -229,7 +230,7 @@
     </ul></ul></td> 
 </tr>
 <tr>
-    <td>Wk 13 Wed, Apr 20</td>
+    <td>Wk 12 Wed, Apr 20</td>
      <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -241,7 +242,7 @@
     </td>
 </tr>
 <tr>
-    <td>Wk 14 Wed, Apr 27</td>
+    <td>Wk 13 Wed, Apr 27</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -255,7 +256,7 @@
 </tr>
 
 <tr>
-    <td>Wk 15 Wed, May 04</td>
+    <td>Wk 14 Wed, May 04</td>
     <td><strong>Homework</strong>
     <ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
@@ -272,7 +273,7 @@
     <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
-    <td>Wk 16 Wed, May 11<br>Time TBD</td>
+    <td>Wk 15 Wed, May 11<br>Time TBD</td>
     <td><strong>Homework</strong>
     <ul>
     <li>Prepare for <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></li>
