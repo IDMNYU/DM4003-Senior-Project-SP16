@@ -145,11 +145,11 @@
     <ul>
     <li>Discuss Portfolio Websites</li>
     <ul>
-    <li>http://ilovett.com</li>
-    <li>http://www.volumeone.com/</li>
-    <li>http://jimmy-simpson.com/</li>
-    <li>http://cattsmall.com/portfolio</li>
-    <li>http://ninasays.so</li>
+    <li>[http://ilovett.com](http://ilovett.com)</li>
+    <li>[http://www.volumeone.com/](http://www.volumeone.com/)</li>
+    <li>[http://jimmy-simpson.com/](http://jimmy-simpson.com/)</li>
+    <li>[http://cattsmall.com](http://cattsmall.com)</li>
+    <li>[http://ninasays.so](http://ninasays.so)</li>
     </ul>
     <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft and/or linkedin presences with classmates for feedback.</li>
     <li>Individual Meetings (Rest of Class)</li>
