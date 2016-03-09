@@ -171,12 +171,12 @@
     <ul>
     <li><strong>Midterm Self Assessment Rubric Due</strong> (Direct message as pdf to deangela on slack)</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
-    <li><strong>7 Minute Project Presentation</strong> (All Students) Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
+   
     </ul>
     <strong>Class</strong>
     <ul>
     <li>Schedule Midterm Review Individual Meetings.</li>
-    <li><strong>Class Critique: 7 Minute Project Presentation Drafts from all students</strong></li>
+     <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo Due</a></strong> (Rest of Class)</li>
     </td>
 </tr>
 <tr>
@@ -195,7 +195,7 @@
     <td>Wk 10 Wed, Apr 6</td>
      <td><strong>Homework</strong>
     <ul>
-    
+     <li><strong>7 Minute Project Presentation</strong> (All Students) Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a guideline for your visual presentation. You should present an audio (optional), visual (not optional) presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br></strong></li>
     
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
@@ -203,7 +203,7 @@
      
     <strong>Class</strong>
     <ul>
-    <li>TBD</li>
+    <li><strong>Class Critique: 7 Minute Project Presentation Drafts from all students</strong></li>
     </ul></td>
 </tr>
 <tr>
