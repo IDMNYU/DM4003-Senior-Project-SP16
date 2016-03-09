@@ -170,6 +170,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
+    <li>De Angela will post the Midterm Self Assessment Rubric which is due **next week **on Slack</li>
     <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Alpha Project Demo Due</a></strong> (All Students)</li>
     </ul></td> 
 </tr>
