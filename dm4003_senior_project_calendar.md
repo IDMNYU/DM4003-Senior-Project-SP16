@@ -129,7 +129,7 @@
     <strong>Class</strong>
     <ul>
     <li>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.</li>
-    <li>Individual Meetings (Half of Class)</li>
+    <li>Individual Meetings (All Students)</li>
     </ul></td> 
 </tr>
 <tr>
@@ -143,8 +143,16 @@
     </ul>
     <strong>Class</strong>
     <ul>
+    <li>Discuss Portfolio Websites</li>
+    <ul>
+    <li>http://ilovett.com</li>
+    <li>http://www.volumeone.com/</li>
+    <li>http://jimmy-simpson.com/</li>
+    <li>http://cattsmall.com/portfolio</li>
+    <li>http://ninasays.so</li>
+    </ul>
     <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft and/or linkedin presences with classmates for feedback.</li>
-    <li>Individual Meetings (Other Half of Class)</li>
+    <li>Individual Meetings (Rest of Class)</li>
     </ul></td> 
 </tr>
 
