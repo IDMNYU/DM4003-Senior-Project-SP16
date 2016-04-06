@@ -233,6 +233,7 @@
     <ul>
     <li>Class Critique:</li>
     <ul>
+    <li><strong>Class Critique: Senior Project – <a href="project_demo.md">Beta Project Demo Due</a></strong></li>
     <li>Final Resume and Cover Letter Due (post PDF on your class website from about or contact)</li>
     <li>Final LinkedIn Profile Due (post link from your class website from about or contact.)</li>
     <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></li>
