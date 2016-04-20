@@ -269,6 +269,18 @@
     <td>Wk 14 Wed, May 04</td>
     <td><strong>Homework</strong>
     <ul>
+    <li>Direct message deangela on slack <strong>a flyer to promote your senior project public presentation on the MAGNET screens and BxMC facebook page</strong>.</li>
+    <ul>
+    <Li>Dimensions should be 1920x1200</li>
+    <li>Your Name</li>
+    <li>Senior Project Name</li>
+    <li>IDM MS Senior Project Public Presentation</li>
+    <Li>URL to Process website</li>
+    <li>Time</li>
+    <li>MAGNET 811</li>
+    <li>Open to all</li>
+    <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
+    </ul>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </ul>
      <strong>Class</strong>
