@@ -277,6 +277,20 @@
     <li>IDM MS Senior Project Public Presentation</li>
     <Li>URL to Process website</li>
     <li>Time</li>
+    <ul>
+    <li>2:30 Arif</li>
+    <li>2:50 Matei</li>
+    <li>3:10 Matthew</li>
+    <li>3:30 Dylan</li>
+    <li>3:50 Casey</li>
+    <li>4:10 Lajune</li>
+    <li>4:30 Stanford</li>
+    <li>4:50 Guy</li>
+    <li>5:10 Nancy</li>
+    <li>5:30 Katalina</li>
+    <li>5:50 Hornby</li>
+    
+    </ul>
     <li>MAGNET 811</li>
     <li>Open to all</li>
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
@@ -303,7 +317,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="end_of_semester_presentation.md">End of Semester Public Presentations</a></strong> MAGNET Rm TBD (Attendance is MANDATORY for the entire 4 hours!)</li>
+    <li><strong><a href="end_of_semester_presentation.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)</li>
     </ul></td>
 </tr>
 <tr>
