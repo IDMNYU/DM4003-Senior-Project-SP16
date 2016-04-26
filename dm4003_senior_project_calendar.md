@@ -259,7 +259,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a></li>
+    
     <li>Class Critique (Other Half of Class): 20 Minute Project Presentations w/ Beta Version Demo Due</li>
     </ul></li>
     </ul></td>
