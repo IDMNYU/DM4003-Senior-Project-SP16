@@ -274,7 +274,7 @@
     <Li>Dimensions should be 1920x1200</li>
     <li>Your Name</li>
     <li>Senior Project Name</li>
-    <li>IDM MS Senior Project Public Presentation</li>
+    <li>IDM Senior Project Public Presentation</li>
     <Li>URL to Process website</li>
     <li>Time</li>
     <ul>
