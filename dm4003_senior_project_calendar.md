@@ -321,7 +321,7 @@
     </ul></td>
 </tr>
 <tr>
-<td>Mon, May 9-Fri, May 15</td>
+<td>Mon, May 9-Fri, May 13</td>
 <td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a><br>
 Direct message the following to deangela on slack:
 <a href="dm4003_senior_project_end_of_semester_deliverables.md">
