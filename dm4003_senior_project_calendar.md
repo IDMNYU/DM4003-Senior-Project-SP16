@@ -276,7 +276,7 @@
     <li>Senior Project Name</li>
     <li>IDM Senior Project Public Presentation</li>
     <Li>URL to Process website</li>
-    <li>Time</li>
+    <li>Put Your Time ONLY</li>
     <ul>
     <li>2:30 Arif</li>
     <li>2:50 Matei</li>
