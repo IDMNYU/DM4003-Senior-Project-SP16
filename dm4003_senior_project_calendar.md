@@ -309,7 +309,7 @@
     <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
-    <td>Wk 15 Wed, May 11<br>Time TBD</td>
+    <td>Wk 15 Wed, May 11<br>Time 2:30-6:30pm</td>
     <td><strong>Homework</strong>
     <ul>
     <li>Prepare for <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong></li>
