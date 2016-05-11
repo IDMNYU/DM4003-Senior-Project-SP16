@@ -322,8 +322,8 @@
 </tr>
 <tr>
 <td>Mon, May 9-Fri, May 13</td>
-<td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a><br>
-Direct message the following to deangela on slack:
+<td>
+Direct message the following to deangela on slack OR create a google drive folder OR create a dropbox link:
 <a href="dm4003_senior_project_end_of_semester_deliverables.md">
 Deliverables For IDM Promotion and Archive<br>
 End of Semester Presentation (exported as pdf)<br>
@@ -331,6 +331,10 @@ Final Self-Assessment Due (pdf)<br>
 Letter to Next Cohort Due (pdf)<br>
 Portfolio Website</a>
 <a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a></td>
+</tr>
+<tr>
+<td>Mon, May 9-Fri, May 17</td>
+<td><a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">Senior Exit Interview Survey</a></td>
 </tr>
 </table>
 
