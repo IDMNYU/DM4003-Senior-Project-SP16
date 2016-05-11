@@ -6,7 +6,7 @@
 # End of Semester Deliverables
 
 ## EXIT INTERVIEW SURVEY
-The survey will be mailed to your NYU email account but you can also access it <a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">here</a>.
+The survey will be slacked to you but you can also access it <a href="https://docs.google.com/forms/d/1B1sKhE43W0fSWwrS969Q3iH4S9-PrLOCaUv0ereOgVw/viewform" target="_blank">here</a>.
 
 ## END OF SEMESTER PDF
 This should be compiled using **Adobe InDesign**.
