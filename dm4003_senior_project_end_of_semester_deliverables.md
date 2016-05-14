@@ -60,7 +60,7 @@ If you want to create a dropbox account and have not already done so, let me kno
 
 Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
-Create a dropbox link (NOT folder, see above) or google drive folder that contains the following. Make sure all filenames include your name and ms thesis fa15 and descriptive text of the content: 
+Create a dropbox link (NOT folder, see above) or google drive folder that contains the following. Make sure all filenames include your name and senior projects sp16 and descriptive text of the content: 
 
 Photo documentation (for all students)
     * ***at least*** 3, hi-res images of your project (RAW preferably or 300dpi)
