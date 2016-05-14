@@ -71,7 +71,7 @@ Video and/or Audio documentation (varies by student)
 * If creating a performance or event, please provide video documentation of the performance or event.
 * If creating any sort of moving image (animation, film, motion graphics, video web series, etc.), please provide compressed video files of your moving image.
 * If creating an audio podcast, provide mp3s of all podcasts.
-* If creating any print medium, provide an original copy of it or provide a digital copy of it (preferably pdf).
+* If creating any print medium, provide an original copy of it or provide a digital copy of it.
 
   
 
